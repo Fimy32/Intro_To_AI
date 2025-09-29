@@ -16,24 +16,21 @@ class ExpertSystem:
         self.facts.add(fact)
 
     def ask_user_for_fact(self, fact):
-        response = input(f"Is it true that {fact}? (yes/no): ").strip().lower()
+        response = input(f"Is the weather sunny {fact}? (yes/no): ").strip().lower()
         if response == 'yes':
-            self.add_fact(fact)
+            return fact
+        else:
+            return False
 
     def infer(self):
-        new_facts = True
-        while new_facts:
-            new_facts = False
+        asked_facts = set()
+        response = False
+        while not response and not isinstance(response, str):
             for rule in self.rules:
-                if all(condition in self.facts for condition in rule.conditions) and rule.conclusion not in self.facts:
-                    self.facts.add(rule.conclusion)
-                    new_facts = True
-                    print(f"Inferred: {rule.conclusion}")
-                elif any(condition not in self.facts for condition in rule.conditions):
-                    for condition in rule.conditions:
-                        if condition not in self.facts:
-                            self.ask_user_for_fact(condition)
-                            break # Ask one fact at a time
+                for condition in rule.conditions:
+                    if condition not in self.facts and condition not in asked_facts:
+                        response = self.ask_user_for_fact(condition)
+        print("As it is",response,", I advise you to")
 
 # Example usage
 if __name__ == "__main__":
@@ -42,7 +39,8 @@ if __name__ == "__main__":
     # Add rules
     es.add_rule(Rule(["sunny"], "wear_sunglasses"))
     es.add_rule(Rule(["rainy"], "take_umbrella"))
-    es.add_rule(Rule(["sunny", "weekend"], "go_to_beach"))
+    es.add_rule(Rule(["unbreathable atmosphere"], "try_not_to_die"))
+    es.add_rule(Rule(["acid rainy"], "Don't_be_a_robot"))
     # Perform inference
     es.infer()
     # Print final facts

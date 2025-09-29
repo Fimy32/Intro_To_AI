@@ -1,0 +1,10834 @@
+
+{
+  "name": "bulbasaur",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 7,
+  "weight": 69,
+  "base_stats": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 45
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ivysaur",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 10,
+  "weight": 130,
+  "base_stats": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 63,
+    "special-attack": 80,
+    "special-defense": 80,
+    "speed": 60
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "venusaur",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 20,
+  "weight": 1000,
+  "base_stats": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 83,
+    "special-attack": 100,
+    "special-defense": 100,
+    "speed": 80
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "charmander",
+  "types": [
+    "fire"
+  ],
+  "height": 6,
+  "weight": 85,
+  "base_stats": {
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "special-attack": 60,
+    "special-defense": 50,
+    "speed": 65
+  },
+  "color": "red",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "charmeleon",
+  "types": [
+    "fire"
+  ],
+  "height": 11,
+  "weight": 190,
+  "base_stats": {
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "special-attack": 80,
+    "special-defense": 65,
+    "speed": 80
+  },
+  "color": "red",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "charizard",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "height": 17,
+  "weight": 905,
+  "base_stats": {
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "special-attack": 109,
+    "special-defense": 85,
+    "speed": 100
+  },
+  "color": "red",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "squirtle",
+  "types": [
+    "water"
+  ],
+  "height": 5,
+  "weight": 90,
+  "base_stats": {
+    "hp": 44,
+    "attack": 48,
+    "defense": 65,
+    "special-attack": 50,
+    "special-defense": 64,
+    "speed": 43
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "wartortle",
+  "types": [
+    "water"
+  ],
+  "height": 10,
+  "weight": 225,
+  "base_stats": {
+    "hp": 59,
+    "attack": 63,
+    "defense": 80,
+    "special-attack": 65,
+    "special-defense": 80,
+    "speed": 58
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "blastoise",
+  "types": [
+    "water"
+  ],
+  "height": 16,
+  "weight": 855,
+  "base_stats": {
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "special-attack": 85,
+    "special-defense": 105,
+    "speed": 78
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "caterpie",
+  "types": [
+    "bug"
+  ],
+  "height": 3,
+  "weight": 29,
+  "base_stats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 35,
+    "special-attack": 20,
+    "special-defense": 20,
+    "speed": 45
+  },
+  "color": "green",
+  "shape": "armor",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "metapod",
+  "types": [
+    "bug"
+  ],
+  "height": 7,
+  "weight": 99,
+  "base_stats": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 55,
+    "special-attack": 25,
+    "special-defense": 25,
+    "speed": 30
+  },
+  "color": "green",
+  "shape": "squiggle",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "butterfree",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 11,
+  "weight": 320,
+  "base_stats": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 50,
+    "special-attack": 90,
+    "special-defense": 80,
+    "speed": 70
+  },
+  "color": "white",
+  "shape": "bug-wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "weedle",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "height": 3,
+  "weight": 32,
+  "base_stats": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "special-attack": 20,
+    "special-defense": 20,
+    "speed": 50
+  },
+  "color": "brown",
+  "shape": "armor",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "kakuna",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "height": 6,
+  "weight": 100,
+  "base_stats": {
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "special-attack": 25,
+    "special-defense": 25,
+    "speed": 35
+  },
+  "color": "yellow",
+  "shape": "squiggle",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "beedrill",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "height": 10,
+  "weight": 295,
+  "base_stats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 40,
+    "special-attack": 45,
+    "special-defense": 80,
+    "speed": 75
+  },
+  "color": "yellow",
+  "shape": "bug-wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "pidgey",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 3,
+  "weight": 18,
+  "base_stats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 56
+  },
+  "color": "brown",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "pidgeotto",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 11,
+  "weight": 300,
+  "base_stats": {
+    "hp": 63,
+    "attack": 60,
+    "defense": 55,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 71
+  },
+  "color": "brown",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "pidgeot",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 15,
+  "weight": 395,
+  "base_stats": {
+    "hp": 83,
+    "attack": 80,
+    "defense": 75,
+    "special-attack": 70,
+    "special-defense": 70,
+    "speed": 101
+  },
+  "color": "brown",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "rattata",
+  "types": [
+    "normal"
+  ],
+  "height": 3,
+  "weight": 35,
+  "base_stats": {
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "special-attack": 25,
+    "special-defense": 35,
+    "speed": 72
+  },
+  "color": "purple",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "raticate",
+  "types": [
+    "normal"
+  ],
+  "height": 7,
+  "weight": 185,
+  "base_stats": {
+    "hp": 55,
+    "attack": 81,
+    "defense": 60,
+    "special-attack": 50,
+    "special-defense": 70,
+    "speed": 97
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "spearow",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 3,
+  "weight": 20,
+  "base_stats": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 30,
+    "special-attack": 31,
+    "special-defense": 31,
+    "speed": 70
+  },
+  "color": "brown",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "fearow",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 12,
+  "weight": 380,
+  "base_stats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 65,
+    "special-attack": 61,
+    "special-defense": 61,
+    "speed": 100
+  },
+  "color": "brown",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ekans",
+  "types": [
+    "poison"
+  ],
+  "height": 20,
+  "weight": 69,
+  "base_stats": {
+    "hp": 35,
+    "attack": 60,
+    "defense": 44,
+    "special-attack": 40,
+    "special-defense": 54,
+    "speed": 55
+  },
+  "color": "purple",
+  "shape": "squiggle",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "arbok",
+  "types": [
+    "poison"
+  ],
+  "height": 35,
+  "weight": 650,
+  "base_stats": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 69,
+    "special-attack": 65,
+    "special-defense": 79,
+    "speed": 80
+  },
+  "color": "purple",
+  "shape": "squiggle",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "pikachu",
+  "types": [
+    "electric"
+  ],
+  "height": 4,
+  "weight": 60,
+  "base_stats": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 90
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "raichu",
+  "types": [
+    "electric"
+  ],
+  "height": 8,
+  "weight": 300,
+  "base_stats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 55,
+    "special-attack": 90,
+    "special-defense": 80,
+    "speed": 110
+  },
+  "color": "yellow",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "sandshrew",
+  "types": [
+    "ground"
+  ],
+  "height": 6,
+  "weight": 120,
+  "base_stats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 85,
+    "special-attack": 20,
+    "special-defense": 30,
+    "speed": 40
+  },
+  "color": "yellow",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "sandslash",
+  "types": [
+    "ground"
+  ],
+  "height": 10,
+  "weight": 295,
+  "base_stats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 110,
+    "special-attack": 45,
+    "special-defense": 55,
+    "speed": 65
+  },
+  "color": "yellow",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "nidoran-f",
+  "types": [
+    "poison"
+  ],
+  "height": 4,
+  "weight": 70,
+  "base_stats": {
+    "hp": 55,
+    "attack": 47,
+    "defense": 52,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 41
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "nidorina",
+  "types": [
+    "poison"
+  ],
+  "height": 8,
+  "weight": 200,
+  "base_stats": {
+    "hp": 70,
+    "attack": 62,
+    "defense": 67,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 56
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "nidoqueen",
+  "types": [
+    "poison",
+    "ground"
+  ],
+  "height": 13,
+  "weight": 600,
+  "base_stats": {
+    "hp": 90,
+    "attack": 92,
+    "defense": 87,
+    "special-attack": 75,
+    "special-defense": 85,
+    "speed": 76
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "nidoran-m",
+  "types": [
+    "poison"
+  ],
+  "height": 5,
+  "weight": 90,
+  "base_stats": {
+    "hp": 46,
+    "attack": 57,
+    "defense": 40,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 50
+  },
+  "color": "purple",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "nidorino",
+  "types": [
+    "poison"
+  ],
+  "height": 9,
+  "weight": 195,
+  "base_stats": {
+    "hp": 61,
+    "attack": 72,
+    "defense": 57,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 65
+  },
+  "color": "purple",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "nidoking",
+  "types": [
+    "poison",
+    "ground"
+  ],
+  "height": 14,
+  "weight": 620,
+  "base_stats": {
+    "hp": 81,
+    "attack": 102,
+    "defense": 77,
+    "special-attack": 85,
+    "special-defense": 75,
+    "speed": 85
+  },
+  "color": "purple",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "clefairy",
+  "types": [
+    "fairy"
+  ],
+  "height": 6,
+  "weight": 75,
+  "base_stats": {
+    "hp": 70,
+    "attack": 45,
+    "defense": 48,
+    "special-attack": 60,
+    "special-defense": 65,
+    "speed": 35
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "clefable",
+  "types": [
+    "fairy"
+  ],
+  "height": 13,
+  "weight": 400,
+  "base_stats": {
+    "hp": 95,
+    "attack": 70,
+    "defense": 73,
+    "special-attack": 95,
+    "special-defense": 90,
+    "speed": 60
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "vulpix",
+  "types": [
+    "fire"
+  ],
+  "height": 6,
+  "weight": 99,
+  "base_stats": {
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "special-attack": 50,
+    "special-defense": 65,
+    "speed": 65
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ninetales",
+  "types": [
+    "fire"
+  ],
+  "height": 11,
+  "weight": 199,
+  "base_stats": {
+    "hp": 73,
+    "attack": 76,
+    "defense": 75,
+    "special-attack": 81,
+    "special-defense": 100,
+    "speed": 100
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "jigglypuff",
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "height": 5,
+  "weight": 55,
+  "base_stats": {
+    "hp": 115,
+    "attack": 45,
+    "defense": 20,
+    "special-attack": 45,
+    "special-defense": 25,
+    "speed": 20
+  },
+  "color": "pink",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "wigglytuff",
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "height": 10,
+  "weight": 120,
+  "base_stats": {
+    "hp": 140,
+    "attack": 70,
+    "defense": 45,
+    "special-attack": 85,
+    "special-defense": 50,
+    "speed": 45
+  },
+  "color": "pink",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "zubat",
+  "types": [
+    "poison",
+    "flying"
+  ],
+  "height": 8,
+  "weight": 75,
+  "base_stats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "special-attack": 30,
+    "special-defense": 40,
+    "speed": 55
+  },
+  "color": "purple",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "golbat",
+  "types": [
+    "poison",
+    "flying"
+  ],
+  "height": 16,
+  "weight": 550,
+  "base_stats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 70,
+    "special-attack": 65,
+    "special-defense": 75,
+    "speed": 90
+  },
+  "color": "purple",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "oddish",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 5,
+  "weight": 54,
+  "base_stats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 55,
+    "special-attack": 75,
+    "special-defense": 65,
+    "speed": 30
+  },
+  "color": "blue",
+  "shape": "legs",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gloom",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 8,
+  "weight": 86,
+  "base_stats": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 70,
+    "special-attack": 85,
+    "special-defense": 75,
+    "speed": 40
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "vileplume",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 12,
+  "weight": 186,
+  "base_stats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 85,
+    "special-attack": 110,
+    "special-defense": 90,
+    "speed": 50
+  },
+  "color": "red",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "paras",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "height": 3,
+  "weight": 54,
+  "base_stats": {
+    "hp": 35,
+    "attack": 70,
+    "defense": 55,
+    "special-attack": 45,
+    "special-defense": 55,
+    "speed": 25
+  },
+  "color": "red",
+  "shape": "armor",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "parasect",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "height": 10,
+  "weight": 295,
+  "base_stats": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 80,
+    "special-attack": 60,
+    "special-defense": 80,
+    "speed": 30
+  },
+  "color": "red",
+  "shape": "armor",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "venonat",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "height": 10,
+  "weight": 300,
+  "base_stats": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 55,
+    "speed": 45
+  },
+  "color": "purple",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "venomoth",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "height": 15,
+  "weight": 125,
+  "base_stats": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "special-attack": 90,
+    "special-defense": 75,
+    "speed": 90
+  },
+  "color": "purple",
+  "shape": "bug-wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "diglett",
+  "types": [
+    "ground"
+  ],
+  "height": 2,
+  "weight": 8,
+  "base_stats": {
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "special-attack": 35,
+    "special-defense": 45,
+    "speed": 95
+  },
+  "color": "brown",
+  "shape": "blob",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+Fetched 50 entries so far...
+{
+  "name": "dugtrio",
+  "types": [
+    "ground"
+  ],
+  "height": 7,
+  "weight": 333,
+  "base_stats": {
+    "hp": 35,
+    "attack": 100,
+    "defense": 50,
+    "special-attack": 50,
+    "special-defense": 70,
+    "speed": 120
+  },
+  "color": "brown",
+  "shape": "heads",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "meowth",
+  "types": [
+    "normal"
+  ],
+  "height": 4,
+  "weight": 42,
+  "base_stats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 90
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "persian",
+  "types": [
+    "normal"
+  ],
+  "height": 10,
+  "weight": 320,
+  "base_stats": {
+    "hp": 65,
+    "attack": 70,
+    "defense": 60,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 115
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "psyduck",
+  "types": [
+    "water"
+  ],
+  "height": 8,
+  "weight": 196,
+  "base_stats": {
+    "hp": 50,
+    "attack": 52,
+    "defense": 48,
+    "special-attack": 65,
+    "special-defense": 50,
+    "speed": 55
+  },
+  "color": "yellow",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "golduck",
+  "types": [
+    "water"
+  ],
+  "height": 17,
+  "weight": 766,
+  "base_stats": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 78,
+    "special-attack": 95,
+    "special-defense": 80,
+    "speed": 85
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mankey",
+  "types": [
+    "fighting"
+  ],
+  "height": 5,
+  "weight": 280,
+  "base_stats": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 35,
+    "special-attack": 35,
+    "special-defense": 45,
+    "speed": 70
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "primeape",
+  "types": [
+    "fighting"
+  ],
+  "height": 10,
+  "weight": 320,
+  "base_stats": {
+    "hp": 65,
+    "attack": 105,
+    "defense": 60,
+    "special-attack": 60,
+    "special-defense": 70,
+    "speed": 95
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "growlithe",
+  "types": [
+    "fire"
+  ],
+  "height": 7,
+  "weight": 190,
+  "base_stats": {
+    "hp": 55,
+    "attack": 70,
+    "defense": 45,
+    "special-attack": 70,
+    "special-defense": 50,
+    "speed": 60
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "arcanine",
+  "types": [
+    "fire"
+  ],
+  "height": 19,
+  "weight": 1550,
+  "base_stats": {
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "special-attack": 100,
+    "special-defense": 80,
+    "speed": 95
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "poliwag",
+  "types": [
+    "water"
+  ],
+  "height": 6,
+  "weight": 124,
+  "base_stats": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 90
+  },
+  "color": "blue",
+  "shape": "legs",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "poliwhirl",
+  "types": [
+    "water"
+  ],
+  "height": 10,
+  "weight": 200,
+  "base_stats": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 65,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 90
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "poliwrath",
+  "types": [
+    "water",
+    "fighting"
+  ],
+  "height": 13,
+  "weight": 540,
+  "base_stats": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 95,
+    "special-attack": 70,
+    "special-defense": 90,
+    "speed": 70
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "abra",
+  "types": [
+    "psychic"
+  ],
+  "height": 9,
+  "weight": 195,
+  "base_stats": {
+    "hp": 25,
+    "attack": 20,
+    "defense": 15,
+    "special-attack": 105,
+    "special-defense": 55,
+    "speed": 90
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "kadabra",
+  "types": [
+    "psychic"
+  ],
+  "height": 13,
+  "weight": 565,
+  "base_stats": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "special-attack": 120,
+    "special-defense": 70,
+    "speed": 105
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "alakazam",
+  "types": [
+    "psychic"
+  ],
+  "height": 15,
+  "weight": 480,
+  "base_stats": {
+    "hp": 55,
+    "attack": 50,
+    "defense": 45,
+    "special-attack": 135,
+    "special-defense": 95,
+    "speed": 120
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "machop",
+  "types": [
+    "fighting"
+  ],
+  "height": 8,
+  "weight": 195,
+  "base_stats": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 50,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 35
+  },
+  "color": "gray",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "machoke",
+  "types": [
+    "fighting"
+  ],
+  "height": 15,
+  "weight": 705,
+  "base_stats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "special-attack": 50,
+    "special-defense": 60,
+    "speed": 45
+  },
+  "color": "gray",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "machamp",
+  "types": [
+    "fighting"
+  ],
+  "height": 16,
+  "weight": 1300,
+  "base_stats": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 80,
+    "special-attack": 65,
+    "special-defense": 85,
+    "speed": 55
+  },
+  "color": "gray",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "bellsprout",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 7,
+  "weight": 40,
+  "base_stats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 35,
+    "special-attack": 70,
+    "special-defense": 30,
+    "speed": 40
+  },
+  "color": "green",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "weepinbell",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 10,
+  "weight": 64,
+  "base_stats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 50,
+    "special-attack": 85,
+    "special-defense": 45,
+    "speed": 55
+  },
+  "color": "green",
+  "shape": "blob",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "victreebel",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 17,
+  "weight": 155,
+  "base_stats": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "special-attack": 100,
+    "special-defense": 70,
+    "speed": 70
+  },
+  "color": "green",
+  "shape": "blob",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "tentacool",
+  "types": [
+    "water",
+    "poison"
+  ],
+  "height": 9,
+  "weight": 455,
+  "base_stats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "special-attack": 50,
+    "special-defense": 100,
+    "speed": 70
+  },
+  "color": "blue",
+  "shape": "tentacles",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "tentacruel",
+  "types": [
+    "water",
+    "poison"
+  ],
+  "height": 16,
+  "weight": 550,
+  "base_stats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "special-attack": 80,
+    "special-defense": 120,
+    "speed": 100
+  },
+  "color": "blue",
+  "shape": "tentacles",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "geodude",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "height": 4,
+  "weight": 200,
+  "base_stats": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 100,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 20
+  },
+  "color": "brown",
+  "shape": "arms",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "graveler",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "height": 10,
+  "weight": 1050,
+  "base_stats": {
+    "hp": 55,
+    "attack": 95,
+    "defense": 115,
+    "special-attack": 45,
+    "special-defense": 45,
+    "speed": 35
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "golem",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "height": 14,
+  "weight": 3000,
+  "base_stats": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 130,
+    "special-attack": 55,
+    "special-defense": 65,
+    "speed": 45
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ponyta",
+  "types": [
+    "fire"
+  ],
+  "height": 10,
+  "weight": 300,
+  "base_stats": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 55,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 90
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "rapidash",
+  "types": [
+    "fire"
+  ],
+  "height": 17,
+  "weight": 950,
+  "base_stats": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "special-attack": 80,
+    "special-defense": 80,
+    "speed": 105
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "slowpoke",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "height": 12,
+  "weight": 360,
+  "base_stats": {
+    "hp": 90,
+    "attack": 65,
+    "defense": 65,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 15
+  },
+  "color": "pink",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "slowbro",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "height": 16,
+  "weight": 785,
+  "base_stats": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 110,
+    "special-attack": 100,
+    "special-defense": 80,
+    "speed": 30
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "magnemite",
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "height": 3,
+  "weight": 60,
+  "base_stats": {
+    "hp": 25,
+    "attack": 35,
+    "defense": 70,
+    "special-attack": 95,
+    "special-defense": 55,
+    "speed": 45
+  },
+  "color": "gray",
+  "shape": "arms",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "magneton",
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "height": 10,
+  "weight": 600,
+  "base_stats": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 95,
+    "special-attack": 120,
+    "special-defense": 70,
+    "speed": 70
+  },
+  "color": "gray",
+  "shape": "heads",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "farfetchd",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 8,
+  "weight": 150,
+  "base_stats": {
+    "hp": 52,
+    "attack": 90,
+    "defense": 55,
+    "special-attack": 58,
+    "special-defense": 62,
+    "speed": 60
+  },
+  "color": "brown",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "doduo",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 14,
+  "weight": 392,
+  "base_stats": {
+    "hp": 35,
+    "attack": 85,
+    "defense": 45,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 75
+  },
+  "color": "brown",
+  "shape": "legs",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "dodrio",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 18,
+  "weight": 852,
+  "base_stats": {
+    "hp": 60,
+    "attack": 110,
+    "defense": 70,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 110
+  },
+  "color": "brown",
+  "shape": "legs",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "seel",
+  "types": [
+    "water"
+  ],
+  "height": 11,
+  "weight": 900,
+  "base_stats": {
+    "hp": 65,
+    "attack": 45,
+    "defense": 55,
+    "special-attack": 45,
+    "special-defense": 70,
+    "speed": 45
+  },
+  "color": "white",
+  "shape": "fish",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "dewgong",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "height": 17,
+  "weight": 1200,
+  "base_stats": {
+    "hp": 90,
+    "attack": 70,
+    "defense": 80,
+    "special-attack": 70,
+    "special-defense": 95,
+    "speed": 70
+  },
+  "color": "white",
+  "shape": "fish",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "grimer",
+  "types": [
+    "poison"
+  ],
+  "height": 9,
+  "weight": 300,
+  "base_stats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 25
+  },
+  "color": "purple",
+  "shape": "arms",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "muk",
+  "types": [
+    "poison"
+  ],
+  "height": 12,
+  "weight": 300,
+  "base_stats": {
+    "hp": 105,
+    "attack": 105,
+    "defense": 75,
+    "special-attack": 65,
+    "special-defense": 100,
+    "speed": 50
+  },
+  "color": "purple",
+  "shape": "arms",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "shellder",
+  "types": [
+    "water"
+  ],
+  "height": 3,
+  "weight": 40,
+  "base_stats": {
+    "hp": 30,
+    "attack": 65,
+    "defense": 100,
+    "special-attack": 45,
+    "special-defense": 25,
+    "speed": 40
+  },
+  "color": "purple",
+  "shape": "ball",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "cloyster",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "height": 15,
+  "weight": 1325,
+  "base_stats": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 180,
+    "special-attack": 85,
+    "special-defense": 45,
+    "speed": 70
+  },
+  "color": "purple",
+  "shape": "ball",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gastly",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "height": 13,
+  "weight": 1,
+  "base_stats": {
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "special-attack": 100,
+    "special-defense": 35,
+    "speed": 80
+  },
+  "color": "purple",
+  "shape": "ball",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "haunter",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "height": 16,
+  "weight": 1,
+  "base_stats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 45,
+    "special-attack": 115,
+    "special-defense": 55,
+    "speed": 95
+  },
+  "color": "purple",
+  "shape": "arms",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gengar",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "height": 15,
+  "weight": 405,
+  "base_stats": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 60,
+    "special-attack": 130,
+    "special-defense": 75,
+    "speed": 110
+  },
+  "color": "purple",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "onix",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "height": 88,
+  "weight": 2100,
+  "base_stats": {
+    "hp": 35,
+    "attack": 45,
+    "defense": 160,
+    "special-attack": 30,
+    "special-defense": 45,
+    "speed": 70
+  },
+  "color": "gray",
+  "shape": "squiggle",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "drowzee",
+  "types": [
+    "psychic"
+  ],
+  "height": 10,
+  "weight": 324,
+  "base_stats": {
+    "hp": 60,
+    "attack": 48,
+    "defense": 45,
+    "special-attack": 43,
+    "special-defense": 90,
+    "speed": 42
+  },
+  "color": "yellow",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "hypno",
+  "types": [
+    "psychic"
+  ],
+  "height": 16,
+  "weight": 756,
+  "base_stats": {
+    "hp": 85,
+    "attack": 73,
+    "defense": 70,
+    "special-attack": 73,
+    "special-defense": 115,
+    "speed": 67
+  },
+  "color": "yellow",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "krabby",
+  "types": [
+    "water"
+  ],
+  "height": 4,
+  "weight": 65,
+  "base_stats": {
+    "hp": 30,
+    "attack": 105,
+    "defense": 90,
+    "special-attack": 25,
+    "special-defense": 25,
+    "speed": 50
+  },
+  "color": "red",
+  "shape": "armor",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "kingler",
+  "types": [
+    "water"
+  ],
+  "height": 13,
+  "weight": 600,
+  "base_stats": {
+    "hp": 55,
+    "attack": 130,
+    "defense": 115,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 75
+  },
+  "color": "red",
+  "shape": "armor",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "voltorb",
+  "types": [
+    "electric"
+  ],
+  "height": 5,
+  "weight": 104,
+  "base_stats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 50,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 100
+  },
+  "color": "red",
+  "shape": "ball",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+Fetched 100 entries so far...
+{
+  "name": "electrode",
+  "types": [
+    "electric"
+  ],
+  "height": 12,
+  "weight": 666,
+  "base_stats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "special-attack": 80,
+    "special-defense": 80,
+    "speed": 150
+  },
+  "color": "red",
+  "shape": "ball",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "exeggcute",
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "height": 4,
+  "weight": 25,
+  "base_stats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 80,
+    "special-attack": 60,
+    "special-defense": 45,
+    "speed": 40
+  },
+  "color": "pink",
+  "shape": "heads",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "exeggutor",
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "height": 20,
+  "weight": 1200,
+  "base_stats": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 85,
+    "special-attack": 125,
+    "special-defense": 75,
+    "speed": 55
+  },
+  "color": "yellow",
+  "shape": "legs",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "cubone",
+  "types": [
+    "ground"
+  ],
+  "height": 4,
+  "weight": 65,
+  "base_stats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 95,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 35
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "marowak",
+  "types": [
+    "ground"
+  ],
+  "height": 10,
+  "weight": 450,
+  "base_stats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "special-attack": 50,
+    "special-defense": 80,
+    "speed": 45
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "hitmonlee",
+  "types": [
+    "fighting"
+  ],
+  "height": 15,
+  "weight": 498,
+  "base_stats": {
+    "hp": 50,
+    "attack": 120,
+    "defense": 53,
+    "special-attack": 35,
+    "special-defense": 110,
+    "speed": 87
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "hitmonchan",
+  "types": [
+    "fighting"
+  ],
+  "height": 14,
+  "weight": 502,
+  "base_stats": {
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "special-attack": 35,
+    "special-defense": 110,
+    "speed": 76
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lickitung",
+  "types": [
+    "normal"
+  ],
+  "height": 12,
+  "weight": 655,
+  "base_stats": {
+    "hp": 90,
+    "attack": 55,
+    "defense": 75,
+    "special-attack": 60,
+    "special-defense": 75,
+    "speed": 30
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "koffing",
+  "types": [
+    "poison"
+  ],
+  "height": 6,
+  "weight": 10,
+  "base_stats": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 95,
+    "special-attack": 60,
+    "special-defense": 45,
+    "speed": 35
+  },
+  "color": "purple",
+  "shape": "ball",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "weezing",
+  "types": [
+    "poison"
+  ],
+  "height": 12,
+  "weight": 95,
+  "base_stats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 120,
+    "special-attack": 85,
+    "special-defense": 70,
+    "speed": 60
+  },
+  "color": "purple",
+  "shape": "heads",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "rhyhorn",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "height": 10,
+  "weight": 1150,
+  "base_stats": {
+    "hp": 80,
+    "attack": 85,
+    "defense": 95,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 25
+  },
+  "color": "gray",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "rhydon",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "height": 19,
+  "weight": 1200,
+  "base_stats": {
+    "hp": 105,
+    "attack": 130,
+    "defense": 120,
+    "special-attack": 45,
+    "special-defense": 45,
+    "speed": 40
+  },
+  "color": "gray",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "chansey",
+  "types": [
+    "normal"
+  ],
+  "height": 11,
+  "weight": 346,
+  "base_stats": {
+    "hp": 250,
+    "attack": 5,
+    "defense": 5,
+    "special-attack": 35,
+    "special-defense": 105,
+    "speed": 50
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "tangela",
+  "types": [
+    "grass"
+  ],
+  "height": 10,
+  "weight": 350,
+  "base_stats": {
+    "hp": 65,
+    "attack": 55,
+    "defense": 115,
+    "special-attack": 100,
+    "special-defense": 40,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "legs",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "kangaskhan",
+  "types": [
+    "normal"
+  ],
+  "height": 22,
+  "weight": 800,
+  "base_stats": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "special-attack": 40,
+    "special-defense": 80,
+    "speed": 90
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "horsea",
+  "types": [
+    "water"
+  ],
+  "height": 4,
+  "weight": 80,
+  "base_stats": {
+    "hp": 30,
+    "attack": 40,
+    "defense": 70,
+    "special-attack": 70,
+    "special-defense": 25,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "blob",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "seadra",
+  "types": [
+    "water"
+  ],
+  "height": 12,
+  "weight": 250,
+  "base_stats": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 95,
+    "special-attack": 95,
+    "special-defense": 45,
+    "speed": 85
+  },
+  "color": "blue",
+  "shape": "blob",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "goldeen",
+  "types": [
+    "water"
+  ],
+  "height": 6,
+  "weight": 150,
+  "base_stats": {
+    "hp": 45,
+    "attack": 67,
+    "defense": 60,
+    "special-attack": 35,
+    "special-defense": 50,
+    "speed": 63
+  },
+  "color": "red",
+  "shape": "fish",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "seaking",
+  "types": [
+    "water"
+  ],
+  "height": 13,
+  "weight": 390,
+  "base_stats": {
+    "hp": 80,
+    "attack": 92,
+    "defense": 65,
+    "special-attack": 65,
+    "special-defense": 80,
+    "speed": 68
+  },
+  "color": "red",
+  "shape": "fish",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "staryu",
+  "types": [
+    "water"
+  ],
+  "height": 8,
+  "weight": 345,
+  "base_stats": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 55,
+    "special-attack": 70,
+    "special-defense": 55,
+    "speed": 85
+  },
+  "color": "brown",
+  "shape": "blob",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "starmie",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "height": 11,
+  "weight": 800,
+  "base_stats": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 85,
+    "special-attack": 100,
+    "special-defense": 85,
+    "speed": 115
+  },
+  "color": "purple",
+  "shape": "blob",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mr-mime",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "height": 13,
+  "weight": 545,
+  "base_stats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 65,
+    "special-attack": 100,
+    "special-defense": 120,
+    "speed": 90
+  },
+  "color": "pink",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "scyther",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 15,
+  "weight": 560,
+  "base_stats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "special-attack": 55,
+    "special-defense": 80,
+    "speed": 105
+  },
+  "color": "green",
+  "shape": "bug-wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "jynx",
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "height": 14,
+  "weight": 406,
+  "base_stats": {
+    "hp": 65,
+    "attack": 50,
+    "defense": 35,
+    "special-attack": 115,
+    "special-defense": 95,
+    "speed": 95
+  },
+  "color": "red",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "electabuzz",
+  "types": [
+    "electric"
+  ],
+  "height": 11,
+  "weight": 300,
+  "base_stats": {
+    "hp": 65,
+    "attack": 83,
+    "defense": 57,
+    "special-attack": 95,
+    "special-defense": 85,
+    "speed": 105
+  },
+  "color": "yellow",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "magmar",
+  "types": [
+    "fire"
+  ],
+  "height": 13,
+  "weight": 445,
+  "base_stats": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 57,
+    "special-attack": 100,
+    "special-defense": 85,
+    "speed": 93
+  },
+  "color": "red",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "pinsir",
+  "types": [
+    "bug"
+  ],
+  "height": 15,
+  "weight": 550,
+  "base_stats": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "special-attack": 55,
+    "special-defense": 70,
+    "speed": 85
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "tauros",
+  "types": [
+    "normal"
+  ],
+  "height": 14,
+  "weight": 884,
+  "base_stats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 95,
+    "special-attack": 40,
+    "special-defense": 70,
+    "speed": 110
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "magikarp",
+  "types": [
+    "water"
+  ],
+  "height": 9,
+  "weight": 100,
+  "base_stats": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "special-attack": 15,
+    "special-defense": 20,
+    "speed": 80
+  },
+  "color": "red",
+  "shape": "fish",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gyarados",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "height": 65,
+  "weight": 2350,
+  "base_stats": {
+    "hp": 95,
+    "attack": 125,
+    "defense": 79,
+    "special-attack": 60,
+    "special-defense": 100,
+    "speed": 81
+  },
+  "color": "blue",
+  "shape": "squiggle",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lapras",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "height": 25,
+  "weight": 2200,
+  "base_stats": {
+    "hp": 130,
+    "attack": 85,
+    "defense": 80,
+    "special-attack": 85,
+    "special-defense": 95,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ditto",
+  "types": [
+    "normal"
+  ],
+  "height": 3,
+  "weight": 40,
+  "base_stats": {
+    "hp": 48,
+    "attack": 48,
+    "defense": 48,
+    "special-attack": 48,
+    "special-defense": 48,
+    "speed": 48
+  },
+  "color": "purple",
+  "shape": "ball",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "eevee",
+  "types": [
+    "normal"
+  ],
+  "height": 3,
+  "weight": 65,
+  "base_stats": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 50,
+    "special-attack": 45,
+    "special-defense": 65,
+    "speed": 55
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "vaporeon",
+  "types": [
+    "water"
+  ],
+  "height": 10,
+  "weight": 290,
+  "base_stats": {
+    "hp": 130,
+    "attack": 65,
+    "defense": 60,
+    "special-attack": 110,
+    "special-defense": 95,
+    "speed": 65
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "jolteon",
+  "types": [
+    "electric"
+  ],
+  "height": 8,
+  "weight": 245,
+  "base_stats": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "special-attack": 110,
+    "special-defense": 95,
+    "speed": 130
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "flareon",
+  "types": [
+    "fire"
+  ],
+  "height": 9,
+  "weight": 250,
+  "base_stats": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "special-attack": 95,
+    "special-defense": 110,
+    "speed": 65
+  },
+  "color": "red",
+  "shape": "quadruped",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "porygon",
+  "types": [
+    "normal"
+  ],
+  "height": 8,
+  "weight": 365,
+  "base_stats": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 70,
+    "special-attack": 85,
+    "special-defense": 75,
+    "speed": 40
+  },
+  "color": "pink",
+  "shape": "legs",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "omanyte",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "height": 4,
+  "weight": 75,
+  "base_stats": {
+    "hp": 35,
+    "attack": 40,
+    "defense": 100,
+    "special-attack": 90,
+    "special-defense": 55,
+    "speed": 35
+  },
+  "color": "blue",
+  "shape": "tentacles",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "omastar",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "height": 10,
+  "weight": 350,
+  "base_stats": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 125,
+    "special-attack": 115,
+    "special-defense": 70,
+    "speed": 55
+  },
+  "color": "blue",
+  "shape": "tentacles",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "kabuto",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "height": 5,
+  "weight": 115,
+  "base_stats": {
+    "hp": 30,
+    "attack": 80,
+    "defense": 90,
+    "special-attack": 55,
+    "special-defense": 45,
+    "speed": 55
+  },
+  "color": "brown",
+  "shape": "armor",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "kabutops",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "height": 13,
+  "weight": 405,
+  "base_stats": {
+    "hp": 60,
+    "attack": 115,
+    "defense": 105,
+    "special-attack": 65,
+    "special-defense": 70,
+    "speed": 80
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "aerodactyl",
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "height": 18,
+  "weight": 590,
+  "base_stats": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "special-attack": 60,
+    "special-defense": 75,
+    "speed": 130
+  },
+  "color": "purple",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "snorlax",
+  "types": [
+    "normal"
+  ],
+  "height": 21,
+  "weight": 4600,
+  "base_stats": {
+    "hp": 160,
+    "attack": 110,
+    "defense": 65,
+    "special-attack": 65,
+    "special-defense": 110,
+    "speed": 30
+  },
+  "color": "black",
+  "shape": "humanoid",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "articuno",
+  "types": [
+    "ice",
+    "flying"
+  ],
+  "height": 17,
+  "weight": 554,
+  "base_stats": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "special-attack": 95,
+    "special-defense": 125,
+    "speed": 85
+  },
+  "color": "blue",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "zapdos",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "height": 16,
+  "weight": 526,
+  "base_stats": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 85,
+    "special-attack": 125,
+    "special-defense": 90,
+    "speed": 100
+  },
+  "color": "yellow",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "moltres",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "height": 20,
+  "weight": 600,
+  "base_stats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "special-attack": 125,
+    "special-defense": 85,
+    "speed": 90
+  },
+  "color": "yellow",
+  "shape": "wings",
+  "generation": "generation-i",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "dratini",
+  "types": [
+    "dragon"
+  ],
+  "height": 18,
+  "weight": 33,
+  "base_stats": {
+    "hp": 41,
+    "attack": 64,
+    "defense": 45,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 50
+  },
+  "color": "blue",
+  "shape": "squiggle",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "dragonair",
+  "types": [
+    "dragon"
+  ],
+  "height": 40,
+  "weight": 165,
+  "base_stats": {
+    "hp": 61,
+    "attack": 84,
+    "defense": 65,
+    "special-attack": 70,
+    "special-defense": 70,
+    "speed": 70
+  },
+  "color": "blue",
+  "shape": "squiggle",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "dragonite",
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "height": 22,
+  "weight": 2100,
+  "base_stats": {
+    "hp": 91,
+    "attack": 134,
+    "defense": 95,
+    "special-attack": 100,
+    "special-defense": 100,
+    "speed": 80
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mewtwo",
+  "types": [
+    "psychic"
+  ],
+  "height": 20,
+  "weight": 1220,
+  "base_stats": {
+    "hp": 106,
+    "attack": 110,
+    "defense": 90,
+    "special-attack": 154,
+    "special-defense": 90,
+    "speed": 130
+  },
+  "color": "purple",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": true,
+  "is_mythical": false
+}
+Fetched 150 entries so far...
+{
+  "name": "mew",
+  "types": [
+    "psychic"
+  ],
+  "height": 4,
+  "weight": 40,
+  "base_stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special-attack": 100,
+    "special-defense": 100,
+    "speed": 100
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-i",
+  "is_legendary": false,
+  "is_mythical": true
+}
+{
+  "name": "chikorita",
+  "types": [
+    "grass"
+  ],
+  "height": 9,
+  "weight": 64,
+  "base_stats": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 65,
+    "special-attack": 49,
+    "special-defense": 65,
+    "speed": 45
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "bayleef",
+  "types": [
+    "grass"
+  ],
+  "height": 12,
+  "weight": 158,
+  "base_stats": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 80,
+    "special-attack": 63,
+    "special-defense": 80,
+    "speed": 60
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "meganium",
+  "types": [
+    "grass"
+  ],
+  "height": 18,
+  "weight": 1005,
+  "base_stats": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 100,
+    "special-attack": 83,
+    "special-defense": 100,
+    "speed": 80
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "cyndaquil",
+  "types": [
+    "fire"
+  ],
+  "height": 5,
+  "weight": 79,
+  "base_stats": {
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "special-attack": 60,
+    "special-defense": 50,
+    "speed": 65
+  },
+  "color": "yellow",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "quilava",
+  "types": [
+    "fire"
+  ],
+  "height": 9,
+  "weight": 190,
+  "base_stats": {
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "special-attack": 80,
+    "special-defense": 65,
+    "speed": 80
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "typhlosion",
+  "types": [
+    "fire"
+  ],
+  "height": 17,
+  "weight": 795,
+  "base_stats": {
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "special-attack": 109,
+    "special-defense": 85,
+    "speed": 100
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "totodile",
+  "types": [
+    "water"
+  ],
+  "height": 6,
+  "weight": 95,
+  "base_stats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 64,
+    "special-attack": 44,
+    "special-defense": 48,
+    "speed": 43
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "croconaw",
+  "types": [
+    "water"
+  ],
+  "height": 11,
+  "weight": 250,
+  "base_stats": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 80,
+    "special-attack": 59,
+    "special-defense": 63,
+    "speed": 58
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "feraligatr",
+  "types": [
+    "water"
+  ],
+  "height": 23,
+  "weight": 888,
+  "base_stats": {
+    "hp": 85,
+    "attack": 105,
+    "defense": 100,
+    "special-attack": 79,
+    "special-defense": 83,
+    "speed": 78
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "sentret",
+  "types": [
+    "normal"
+  ],
+  "height": 8,
+  "weight": 60,
+  "base_stats": {
+    "hp": 35,
+    "attack": 46,
+    "defense": 34,
+    "special-attack": 35,
+    "special-defense": 45,
+    "speed": 20
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "furret",
+  "types": [
+    "normal"
+  ],
+  "height": 18,
+  "weight": 325,
+  "base_stats": {
+    "hp": 85,
+    "attack": 76,
+    "defense": 64,
+    "special-attack": 45,
+    "special-defense": 55,
+    "speed": 90
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "hoothoot",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 7,
+  "weight": 212,
+  "base_stats": {
+    "hp": 60,
+    "attack": 30,
+    "defense": 30,
+    "special-attack": 36,
+    "special-defense": 56,
+    "speed": 50
+  },
+  "color": "brown",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "noctowl",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 16,
+  "weight": 408,
+  "base_stats": {
+    "hp": 100,
+    "attack": 50,
+    "defense": 50,
+    "special-attack": 86,
+    "special-defense": 96,
+    "speed": 70
+  },
+  "color": "brown",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ledyba",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 10,
+  "weight": 108,
+  "base_stats": {
+    "hp": 40,
+    "attack": 20,
+    "defense": 30,
+    "special-attack": 40,
+    "special-defense": 80,
+    "speed": 55
+  },
+  "color": "red",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ledian",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 14,
+  "weight": 356,
+  "base_stats": {
+    "hp": 55,
+    "attack": 35,
+    "defense": 50,
+    "special-attack": 55,
+    "special-defense": 110,
+    "speed": 85
+  },
+  "color": "red",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "spinarak",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "height": 5,
+  "weight": 85,
+  "base_stats": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 40,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 30
+  },
+  "color": "green",
+  "shape": "armor",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ariados",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "height": 11,
+  "weight": 335,
+  "base_stats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "special-attack": 60,
+    "special-defense": 70,
+    "speed": 40
+  },
+  "color": "red",
+  "shape": "armor",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "crobat",
+  "types": [
+    "poison",
+    "flying"
+  ],
+  "height": 18,
+  "weight": 750,
+  "base_stats": {
+    "hp": 85,
+    "attack": 90,
+    "defense": 80,
+    "special-attack": 70,
+    "special-defense": 80,
+    "speed": 130
+  },
+  "color": "purple",
+  "shape": "bug-wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "chinchou",
+  "types": [
+    "water",
+    "electric"
+  ],
+  "height": 5,
+  "weight": 120,
+  "base_stats": {
+    "hp": 75,
+    "attack": 38,
+    "defense": 38,
+    "special-attack": 56,
+    "special-defense": 56,
+    "speed": 67
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lanturn",
+  "types": [
+    "water",
+    "electric"
+  ],
+  "height": 12,
+  "weight": 225,
+  "base_stats": {
+    "hp": 125,
+    "attack": 58,
+    "defense": 58,
+    "special-attack": 76,
+    "special-defense": 76,
+    "speed": 67
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "pichu",
+  "types": [
+    "electric"
+  ],
+  "height": 3,
+  "weight": 20,
+  "base_stats": {
+    "hp": 20,
+    "attack": 40,
+    "defense": 15,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 60
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "cleffa",
+  "types": [
+    "fairy"
+  ],
+  "height": 3,
+  "weight": 30,
+  "base_stats": {
+    "hp": 50,
+    "attack": 25,
+    "defense": 28,
+    "special-attack": 45,
+    "special-defense": 55,
+    "speed": 15
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "igglybuff",
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "height": 3,
+  "weight": 10,
+  "base_stats": {
+    "hp": 90,
+    "attack": 30,
+    "defense": 15,
+    "special-attack": 40,
+    "special-defense": 20,
+    "speed": 15
+  },
+  "color": "pink",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "togepi",
+  "types": [
+    "fairy"
+  ],
+  "height": 3,
+  "weight": 15,
+  "base_stats": {
+    "hp": 35,
+    "attack": 20,
+    "defense": 65,
+    "special-attack": 40,
+    "special-defense": 65,
+    "speed": 20
+  },
+  "color": "white",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "togetic",
+  "types": [
+    "fairy",
+    "flying"
+  ],
+  "height": 6,
+  "weight": 32,
+  "base_stats": {
+    "hp": 55,
+    "attack": 40,
+    "defense": 85,
+    "special-attack": 80,
+    "special-defense": 105,
+    "speed": 40
+  },
+  "color": "white",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "natu",
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "height": 2,
+  "weight": 20,
+  "base_stats": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 45,
+    "special-attack": 70,
+    "special-defense": 45,
+    "speed": 70
+  },
+  "color": "green",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "xatu",
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "height": 15,
+  "weight": 150,
+  "base_stats": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 70,
+    "special-attack": 95,
+    "special-defense": 70,
+    "speed": 95
+  },
+  "color": "green",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mareep",
+  "types": [
+    "electric"
+  ],
+  "height": 6,
+  "weight": 78,
+  "base_stats": {
+    "hp": 55,
+    "attack": 40,
+    "defense": 40,
+    "special-attack": 65,
+    "special-defense": 45,
+    "speed": 35
+  },
+  "color": "white",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "flaaffy",
+  "types": [
+    "electric"
+  ],
+  "height": 8,
+  "weight": 133,
+  "base_stats": {
+    "hp": 70,
+    "attack": 55,
+    "defense": 55,
+    "special-attack": 80,
+    "special-defense": 60,
+    "speed": 45
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ampharos",
+  "types": [
+    "electric"
+  ],
+  "height": 14,
+  "weight": 615,
+  "base_stats": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 85,
+    "special-attack": 115,
+    "special-defense": 90,
+    "speed": 55
+  },
+  "color": "yellow",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "bellossom",
+  "types": [
+    "grass"
+  ],
+  "height": 4,
+  "weight": 58,
+  "base_stats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 95,
+    "special-attack": 90,
+    "special-defense": 100,
+    "speed": 50
+  },
+  "color": "green",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "marill",
+  "types": [
+    "water",
+    "fairy"
+  ],
+  "height": 4,
+  "weight": 85,
+  "base_stats": {
+    "hp": 70,
+    "attack": 20,
+    "defense": 50,
+    "special-attack": 20,
+    "special-defense": 50,
+    "speed": 40
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "azumarill",
+  "types": [
+    "water",
+    "fairy"
+  ],
+  "height": 8,
+  "weight": 285,
+  "base_stats": {
+    "hp": 100,
+    "attack": 50,
+    "defense": 80,
+    "special-attack": 60,
+    "special-defense": 80,
+    "speed": 50
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "sudowoodo",
+  "types": [
+    "rock"
+  ],
+  "height": 12,
+  "weight": 380,
+  "base_stats": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 115,
+    "special-attack": 30,
+    "special-defense": 65,
+    "speed": 30
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "politoed",
+  "types": [
+    "water"
+  ],
+  "height": 11,
+  "weight": 339,
+  "base_stats": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 75,
+    "special-attack": 90,
+    "special-defense": 100,
+    "speed": 70
+  },
+  "color": "green",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "hoppip",
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "height": 4,
+  "weight": 5,
+  "base_stats": {
+    "hp": 35,
+    "attack": 35,
+    "defense": 40,
+    "special-attack": 35,
+    "special-defense": 55,
+    "speed": 50
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "skiploom",
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "height": 6,
+  "weight": 10,
+  "base_stats": {
+    "hp": 55,
+    "attack": 45,
+    "defense": 50,
+    "special-attack": 45,
+    "special-defense": 65,
+    "speed": 80
+  },
+  "color": "green",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "jumpluff",
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "height": 8,
+  "weight": 30,
+  "base_stats": {
+    "hp": 75,
+    "attack": 55,
+    "defense": 70,
+    "special-attack": 55,
+    "special-defense": 95,
+    "speed": 110
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "aipom",
+  "types": [
+    "normal"
+  ],
+  "height": 8,
+  "weight": 115,
+  "base_stats": {
+    "hp": 55,
+    "attack": 70,
+    "defense": 55,
+    "special-attack": 40,
+    "special-defense": 55,
+    "speed": 85
+  },
+  "color": "purple",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "sunkern",
+  "types": [
+    "grass"
+  ],
+  "height": 3,
+  "weight": 18,
+  "base_stats": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 30
+  },
+  "color": "yellow",
+  "shape": "ball",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "sunflora",
+  "types": [
+    "grass"
+  ],
+  "height": 8,
+  "weight": 85,
+  "base_stats": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 55,
+    "special-attack": 105,
+    "special-defense": 85,
+    "speed": 30
+  },
+  "color": "yellow",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "yanma",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 12,
+  "weight": 380,
+  "base_stats": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 45,
+    "special-attack": 75,
+    "special-defense": 45,
+    "speed": 95
+  },
+  "color": "red",
+  "shape": "bug-wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "wooper",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "height": 4,
+  "weight": 85,
+  "base_stats": {
+    "hp": 55,
+    "attack": 45,
+    "defense": 45,
+    "special-attack": 25,
+    "special-defense": 25,
+    "speed": 15
+  },
+  "color": "blue",
+  "shape": "legs",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "quagsire",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "height": 14,
+  "weight": 750,
+  "base_stats": {
+    "hp": 95,
+    "attack": 85,
+    "defense": 85,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 35
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "espeon",
+  "types": [
+    "psychic"
+  ],
+  "height": 9,
+  "weight": 265,
+  "base_stats": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "special-attack": 130,
+    "special-defense": 95,
+    "speed": 110
+  },
+  "color": "purple",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "umbreon",
+  "types": [
+    "dark"
+  ],
+  "height": 10,
+  "weight": 270,
+  "base_stats": {
+    "hp": 95,
+    "attack": 65,
+    "defense": 110,
+    "special-attack": 60,
+    "special-defense": 130,
+    "speed": 65
+  },
+  "color": "black",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "murkrow",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "height": 5,
+  "weight": 21,
+  "base_stats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 42,
+    "special-attack": 85,
+    "special-defense": 42,
+    "speed": 91
+  },
+  "color": "black",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "slowking",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "height": 20,
+  "weight": 795,
+  "base_stats": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 80,
+    "special-attack": 100,
+    "special-defense": 110,
+    "speed": 30
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "misdreavus",
+  "types": [
+    "ghost"
+  ],
+  "height": 7,
+  "weight": 10,
+  "base_stats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "special-attack": 85,
+    "special-defense": 85,
+    "speed": 85
+  },
+  "color": "gray",
+  "shape": "ball",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+Fetched 200 entries so far...
+{
+  "name": "unown",
+  "types": [
+    "psychic"
+  ],
+  "height": 5,
+  "weight": 50,
+  "base_stats": {
+    "hp": 48,
+    "attack": 72,
+    "defense": 48,
+    "special-attack": 72,
+    "special-defense": 48,
+    "speed": 48
+  },
+  "color": "black",
+  "shape": "ball",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "wobbuffet",
+  "types": [
+    "psychic"
+  ],
+  "height": 13,
+  "weight": 285,
+  "base_stats": {
+    "hp": 190,
+    "attack": 33,
+    "defense": 58,
+    "special-attack": 33,
+    "special-defense": 58,
+    "speed": 33
+  },
+  "color": "blue",
+  "shape": "blob",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "girafarig",
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "height": 15,
+  "weight": 415,
+  "base_stats": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 65,
+    "special-attack": 90,
+    "special-defense": 65,
+    "speed": 85
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "pineco",
+  "types": [
+    "bug"
+  ],
+  "height": 6,
+  "weight": 72,
+  "base_stats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 90,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 15
+  },
+  "color": "gray",
+  "shape": "ball",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "forretress",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "height": 12,
+  "weight": 1258,
+  "base_stats": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 140,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 40
+  },
+  "color": "purple",
+  "shape": "ball",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "dunsparce",
+  "types": [
+    "normal"
+  ],
+  "height": 15,
+  "weight": 140,
+  "base_stats": {
+    "hp": 100,
+    "attack": 70,
+    "defense": 70,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 45
+  },
+  "color": "yellow",
+  "shape": "squiggle",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gligar",
+  "types": [
+    "ground",
+    "flying"
+  ],
+  "height": 11,
+  "weight": 648,
+  "base_stats": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 105,
+    "special-attack": 35,
+    "special-defense": 65,
+    "speed": 85
+  },
+  "color": "purple",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "steelix",
+  "types": [
+    "steel",
+    "ground"
+  ],
+  "height": 92,
+  "weight": 4000,
+  "base_stats": {
+    "hp": 75,
+    "attack": 85,
+    "defense": 200,
+    "special-attack": 55,
+    "special-defense": 65,
+    "speed": 30
+  },
+  "color": "gray",
+  "shape": "squiggle",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "snubbull",
+  "types": [
+    "fairy"
+  ],
+  "height": 6,
+  "weight": 78,
+  "base_stats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 30
+  },
+  "color": "pink",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "granbull",
+  "types": [
+    "fairy"
+  ],
+  "height": 14,
+  "weight": 487,
+  "base_stats": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 75,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 45
+  },
+  "color": "purple",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "qwilfish",
+  "types": [
+    "water",
+    "poison"
+  ],
+  "height": 5,
+  "weight": 39,
+  "base_stats": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 85,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 85
+  },
+  "color": "gray",
+  "shape": "fish",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "scizor",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "height": 18,
+  "weight": 1180,
+  "base_stats": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 100,
+    "special-attack": 55,
+    "special-defense": 80,
+    "speed": 65
+  },
+  "color": "red",
+  "shape": "bug-wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "shuckle",
+  "types": [
+    "bug",
+    "rock"
+  ],
+  "height": 6,
+  "weight": 205,
+  "base_stats": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 230,
+    "special-attack": 10,
+    "special-defense": 230,
+    "speed": 5
+  },
+  "color": "yellow",
+  "shape": "armor",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "heracross",
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "height": 15,
+  "weight": 540,
+  "base_stats": {
+    "hp": 80,
+    "attack": 125,
+    "defense": 75,
+    "special-attack": 40,
+    "special-defense": 95,
+    "speed": 85
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "sneasel",
+  "types": [
+    "dark",
+    "ice"
+  ],
+  "height": 9,
+  "weight": 280,
+  "base_stats": {
+    "hp": 55,
+    "attack": 95,
+    "defense": 55,
+    "special-attack": 35,
+    "special-defense": 75,
+    "speed": 115
+  },
+  "color": "black",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "teddiursa",
+  "types": [
+    "normal"
+  ],
+  "height": 6,
+  "weight": 88,
+  "base_stats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 40
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ursaring",
+  "types": [
+    "normal"
+  ],
+  "height": 18,
+  "weight": 1258,
+  "base_stats": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 75,
+    "special-attack": 75,
+    "special-defense": 75,
+    "speed": 55
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "slugma",
+  "types": [
+    "fire"
+  ],
+  "height": 7,
+  "weight": 350,
+  "base_stats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 40,
+    "special-attack": 70,
+    "special-defense": 40,
+    "speed": 20
+  },
+  "color": "red",
+  "shape": "squiggle",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "magcargo",
+  "types": [
+    "fire",
+    "rock"
+  ],
+  "height": 8,
+  "weight": 550,
+  "base_stats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 120,
+    "special-attack": 90,
+    "special-defense": 80,
+    "speed": 30
+  },
+  "color": "red",
+  "shape": "squiggle",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "swinub",
+  "types": [
+    "ice",
+    "ground"
+  ],
+  "height": 4,
+  "weight": 65,
+  "base_stats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 50
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "piloswine",
+  "types": [
+    "ice",
+    "ground"
+  ],
+  "height": 11,
+  "weight": 558,
+  "base_stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 80,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 50
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "corsola",
+  "types": [
+    "water",
+    "rock"
+  ],
+  "height": 6,
+  "weight": 50,
+  "base_stats": {
+    "hp": 65,
+    "attack": 55,
+    "defense": 95,
+    "special-attack": 65,
+    "special-defense": 95,
+    "speed": 35
+  },
+  "color": "pink",
+  "shape": "armor",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "remoraid",
+  "types": [
+    "water"
+  ],
+  "height": 6,
+  "weight": 120,
+  "base_stats": {
+    "hp": 35,
+    "attack": 65,
+    "defense": 35,
+    "special-attack": 65,
+    "special-defense": 35,
+    "speed": 65
+  },
+  "color": "gray",
+  "shape": "fish",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "octillery",
+  "types": [
+    "water"
+  ],
+  "height": 9,
+  "weight": 285,
+  "base_stats": {
+    "hp": 75,
+    "attack": 105,
+    "defense": 75,
+    "special-attack": 105,
+    "special-defense": 75,
+    "speed": 45
+  },
+  "color": "red",
+  "shape": "tentacles",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "delibird",
+  "types": [
+    "ice",
+    "flying"
+  ],
+  "height": 9,
+  "weight": 160,
+  "base_stats": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 45,
+    "special-attack": 65,
+    "special-defense": 45,
+    "speed": 75
+  },
+  "color": "red",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mantine",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "height": 21,
+  "weight": 2200,
+  "base_stats": {
+    "hp": 85,
+    "attack": 40,
+    "defense": 70,
+    "special-attack": 80,
+    "special-defense": 140,
+    "speed": 70
+  },
+  "color": "purple",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "skarmory",
+  "types": [
+    "steel",
+    "flying"
+  ],
+  "height": 17,
+  "weight": 505,
+  "base_stats": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 140,
+    "special-attack": 40,
+    "special-defense": 70,
+    "speed": 70
+  },
+  "color": "gray",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "houndour",
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "height": 6,
+  "weight": 108,
+  "base_stats": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 30,
+    "special-attack": 80,
+    "special-defense": 50,
+    "speed": 65
+  },
+  "color": "black",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "houndoom",
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "height": 14,
+  "weight": 350,
+  "base_stats": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 50,
+    "special-attack": 110,
+    "special-defense": 80,
+    "speed": 95
+  },
+  "color": "black",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "kingdra",
+  "types": [
+    "water",
+    "dragon"
+  ],
+  "height": 18,
+  "weight": 1520,
+  "base_stats": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 95,
+    "special-attack": 95,
+    "special-defense": 95,
+    "speed": 85
+  },
+  "color": "blue",
+  "shape": "blob",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "phanpy",
+  "types": [
+    "ground"
+  ],
+  "height": 5,
+  "weight": 335,
+  "base_stats": {
+    "hp": 90,
+    "attack": 60,
+    "defense": 60,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 40
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "donphan",
+  "types": [
+    "ground"
+  ],
+  "height": 11,
+  "weight": 1200,
+  "base_stats": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 120,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 50
+  },
+  "color": "gray",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "porygon2",
+  "types": [
+    "normal"
+  ],
+  "height": 6,
+  "weight": 325,
+  "base_stats": {
+    "hp": 85,
+    "attack": 80,
+    "defense": 90,
+    "special-attack": 105,
+    "special-defense": 95,
+    "speed": 60
+  },
+  "color": "red",
+  "shape": "legs",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "stantler",
+  "types": [
+    "normal"
+  ],
+  "height": 14,
+  "weight": 712,
+  "base_stats": {
+    "hp": 73,
+    "attack": 95,
+    "defense": 62,
+    "special-attack": 85,
+    "special-defense": 65,
+    "speed": 85
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "smeargle",
+  "types": [
+    "normal"
+  ],
+  "height": 12,
+  "weight": 580,
+  "base_stats": {
+    "hp": 55,
+    "attack": 20,
+    "defense": 35,
+    "special-attack": 20,
+    "special-defense": 45,
+    "speed": 75
+  },
+  "color": "white",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "tyrogue",
+  "types": [
+    "fighting"
+  ],
+  "height": 7,
+  "weight": 210,
+  "base_stats": {
+    "hp": 35,
+    "attack": 35,
+    "defense": 35,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 35
+  },
+  "color": "purple",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "hitmontop",
+  "types": [
+    "fighting"
+  ],
+  "height": 14,
+  "weight": 480,
+  "base_stats": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 95,
+    "special-attack": 35,
+    "special-defense": 110,
+    "speed": 70
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "smoochum",
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "height": 4,
+  "weight": 60,
+  "base_stats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 15,
+    "special-attack": 85,
+    "special-defense": 65,
+    "speed": 65
+  },
+  "color": "pink",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "elekid",
+  "types": [
+    "electric"
+  ],
+  "height": 6,
+  "weight": 235,
+  "base_stats": {
+    "hp": 45,
+    "attack": 63,
+    "defense": 37,
+    "special-attack": 65,
+    "special-defense": 55,
+    "speed": 95
+  },
+  "color": "yellow",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "magby",
+  "types": [
+    "fire"
+  ],
+  "height": 7,
+  "weight": 214,
+  "base_stats": {
+    "hp": 45,
+    "attack": 75,
+    "defense": 37,
+    "special-attack": 70,
+    "special-defense": 55,
+    "speed": 83
+  },
+  "color": "red",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "miltank",
+  "types": [
+    "normal"
+  ],
+  "height": 12,
+  "weight": 755,
+  "base_stats": {
+    "hp": 95,
+    "attack": 80,
+    "defense": 105,
+    "special-attack": 40,
+    "special-defense": 70,
+    "speed": 100
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "blissey",
+  "types": [
+    "normal"
+  ],
+  "height": 15,
+  "weight": 468,
+  "base_stats": {
+    "hp": 255,
+    "attack": 10,
+    "defense": 10,
+    "special-attack": 75,
+    "special-defense": 135,
+    "speed": 55
+  },
+  "color": "pink",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "raikou",
+  "types": [
+    "electric"
+  ],
+  "height": 19,
+  "weight": 1780,
+  "base_stats": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 75,
+    "special-attack": 115,
+    "special-defense": 100,
+    "speed": 115
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "entei",
+  "types": [
+    "fire"
+  ],
+  "height": 21,
+  "weight": 1980,
+  "base_stats": {
+    "hp": 115,
+    "attack": 115,
+    "defense": 85,
+    "special-attack": 90,
+    "special-defense": 75,
+    "speed": 100
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "suicune",
+  "types": [
+    "water"
+  ],
+  "height": 20,
+  "weight": 1870,
+  "base_stats": {
+    "hp": 100,
+    "attack": 75,
+    "defense": 115,
+    "special-attack": 90,
+    "special-defense": 115,
+    "speed": 85
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-ii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "larvitar",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "height": 6,
+  "weight": 720,
+  "base_stats": {
+    "hp": 50,
+    "attack": 64,
+    "defense": 50,
+    "special-attack": 45,
+    "special-defense": 50,
+    "speed": 41
+  },
+  "color": "green",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "pupitar",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "height": 12,
+  "weight": 1520,
+  "base_stats": {
+    "hp": 70,
+    "attack": 84,
+    "defense": 70,
+    "special-attack": 65,
+    "special-defense": 70,
+    "speed": 51
+  },
+  "color": "gray",
+  "shape": "squiggle",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "tyranitar",
+  "types": [
+    "rock",
+    "dark"
+  ],
+  "height": 20,
+  "weight": 2020,
+  "base_stats": {
+    "hp": 100,
+    "attack": 134,
+    "defense": 110,
+    "special-attack": 95,
+    "special-defense": 100,
+    "speed": 61
+  },
+  "color": "green",
+  "shape": "upright",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lugia",
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "height": 52,
+  "weight": 2160,
+  "base_stats": {
+    "hp": 106,
+    "attack": 90,
+    "defense": 130,
+    "special-attack": 90,
+    "special-defense": 154,
+    "speed": 110
+  },
+  "color": "white",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "ho-oh",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "height": 38,
+  "weight": 1990,
+  "base_stats": {
+    "hp": 106,
+    "attack": 130,
+    "defense": 90,
+    "special-attack": 110,
+    "special-defense": 154,
+    "speed": 90
+  },
+  "color": "red",
+  "shape": "wings",
+  "generation": "generation-ii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+Fetched 250 entries so far...
+{
+  "name": "celebi",
+  "types": [
+    "psychic",
+    "grass"
+  ],
+  "height": 6,
+  "weight": 50,
+  "base_stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special-attack": 100,
+    "special-defense": 100,
+    "speed": 100
+  },
+  "color": "green",
+  "shape": "humanoid",
+  "generation": "generation-ii",
+  "is_legendary": false,
+  "is_mythical": true
+}
+{
+  "name": "treecko",
+  "types": [
+    "grass"
+  ],
+  "height": 5,
+  "weight": 50,
+  "base_stats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "special-attack": 65,
+    "special-defense": 55,
+    "speed": 70
+  },
+  "color": "green",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "grovyle",
+  "types": [
+    "grass"
+  ],
+  "height": 9,
+  "weight": 216,
+  "base_stats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "special-attack": 85,
+    "special-defense": 65,
+    "speed": 95
+  },
+  "color": "green",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "sceptile",
+  "types": [
+    "grass"
+  ],
+  "height": 17,
+  "weight": 522,
+  "base_stats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "special-attack": 105,
+    "special-defense": 85,
+    "speed": 120
+  },
+  "color": "green",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "torchic",
+  "types": [
+    "fire"
+  ],
+  "height": 4,
+  "weight": 25,
+  "base_stats": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 40,
+    "special-attack": 70,
+    "special-defense": 50,
+    "speed": 45
+  },
+  "color": "red",
+  "shape": "legs",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "combusken",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "height": 9,
+  "weight": 195,
+  "base_stats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "special-attack": 85,
+    "special-defense": 60,
+    "speed": 55
+  },
+  "color": "red",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "blaziken",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "height": 19,
+  "weight": 520,
+  "base_stats": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 70,
+    "special-attack": 110,
+    "special-defense": 70,
+    "speed": 80
+  },
+  "color": "red",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mudkip",
+  "types": [
+    "water"
+  ],
+  "height": 4,
+  "weight": 76,
+  "base_stats": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 40
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "marshtomp",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "height": 7,
+  "weight": 280,
+  "base_stats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 70,
+    "special-attack": 60,
+    "special-defense": 70,
+    "speed": 50
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "swampert",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "height": 15,
+  "weight": 819,
+  "base_stats": {
+    "hp": 100,
+    "attack": 110,
+    "defense": 90,
+    "special-attack": 85,
+    "special-defense": 90,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "poochyena",
+  "types": [
+    "dark"
+  ],
+  "height": 5,
+  "weight": 136,
+  "base_stats": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 35,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 35
+  },
+  "color": "gray",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mightyena",
+  "types": [
+    "dark"
+  ],
+  "height": 10,
+  "weight": 370,
+  "base_stats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 70
+  },
+  "color": "gray",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "zigzagoon",
+  "types": [
+    "normal"
+  ],
+  "height": 4,
+  "weight": 175,
+  "base_stats": {
+    "hp": 38,
+    "attack": 30,
+    "defense": 41,
+    "special-attack": 30,
+    "special-defense": 41,
+    "speed": 60
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "linoone",
+  "types": [
+    "normal"
+  ],
+  "height": 5,
+  "weight": 325,
+  "base_stats": {
+    "hp": 78,
+    "attack": 70,
+    "defense": 61,
+    "special-attack": 50,
+    "special-defense": 61,
+    "speed": 100
+  },
+  "color": "white",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "wurmple",
+  "types": [
+    "bug"
+  ],
+  "height": 3,
+  "weight": 36,
+  "base_stats": {
+    "hp": 45,
+    "attack": 45,
+    "defense": 35,
+    "special-attack": 20,
+    "special-defense": 30,
+    "speed": 20
+  },
+  "color": "red",
+  "shape": "armor",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "silcoon",
+  "types": [
+    "bug"
+  ],
+  "height": 6,
+  "weight": 100,
+  "base_stats": {
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "special-attack": 25,
+    "special-defense": 25,
+    "speed": 15
+  },
+  "color": "white",
+  "shape": "ball",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "beautifly",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 10,
+  "weight": 284,
+  "base_stats": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 50,
+    "special-attack": 100,
+    "special-defense": 50,
+    "speed": 65
+  },
+  "color": "yellow",
+  "shape": "bug-wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "cascoon",
+  "types": [
+    "bug"
+  ],
+  "height": 7,
+  "weight": 115,
+  "base_stats": {
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "special-attack": 25,
+    "special-defense": 25,
+    "speed": 15
+  },
+  "color": "purple",
+  "shape": "ball",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "dustox",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "height": 12,
+  "weight": 316,
+  "base_stats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "special-attack": 50,
+    "special-defense": 90,
+    "speed": 65
+  },
+  "color": "green",
+  "shape": "bug-wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lotad",
+  "types": [
+    "water",
+    "grass"
+  ],
+  "height": 5,
+  "weight": 26,
+  "base_stats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 30
+  },
+  "color": "green",
+  "shape": "armor",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lombre",
+  "types": [
+    "water",
+    "grass"
+  ],
+  "height": 12,
+  "weight": 325,
+  "base_stats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 50,
+    "special-attack": 60,
+    "special-defense": 70,
+    "speed": 50
+  },
+  "color": "green",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ludicolo",
+  "types": [
+    "water",
+    "grass"
+  ],
+  "height": 15,
+  "weight": 550,
+  "base_stats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 70,
+    "special-attack": 90,
+    "special-defense": 100,
+    "speed": 70
+  },
+  "color": "green",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "seedot",
+  "types": [
+    "grass"
+  ],
+  "height": 5,
+  "weight": 40,
+  "base_stats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 50,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 30
+  },
+  "color": "brown",
+  "shape": "legs",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "nuzleaf",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "height": 10,
+  "weight": 280,
+  "base_stats": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 40,
+    "special-attack": 60,
+    "special-defense": 40,
+    "speed": 60
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "shiftry",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "height": 13,
+  "weight": 596,
+  "base_stats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 60,
+    "special-attack": 90,
+    "special-defense": 60,
+    "speed": 80
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "taillow",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 3,
+  "weight": 23,
+  "base_stats": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 85
+  },
+  "color": "blue",
+  "shape": "wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "swellow",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 7,
+  "weight": 198,
+  "base_stats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "special-attack": 75,
+    "special-defense": 50,
+    "speed": 125
+  },
+  "color": "blue",
+  "shape": "wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "wingull",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "height": 6,
+  "weight": 95,
+  "base_stats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "special-attack": 55,
+    "special-defense": 30,
+    "speed": 85
+  },
+  "color": "white",
+  "shape": "wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "pelipper",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "height": 12,
+  "weight": 280,
+  "base_stats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 100,
+    "special-attack": 95,
+    "special-defense": 70,
+    "speed": 65
+  },
+  "color": "yellow",
+  "shape": "wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ralts",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "height": 4,
+  "weight": 66,
+  "base_stats": {
+    "hp": 28,
+    "attack": 25,
+    "defense": 25,
+    "special-attack": 45,
+    "special-defense": 35,
+    "speed": 40
+  },
+  "color": "white",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "kirlia",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "height": 8,
+  "weight": 202,
+  "base_stats": {
+    "hp": 38,
+    "attack": 35,
+    "defense": 35,
+    "special-attack": 65,
+    "special-defense": 55,
+    "speed": 50
+  },
+  "color": "white",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gardevoir",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "height": 16,
+  "weight": 484,
+  "base_stats": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 65,
+    "special-attack": 125,
+    "special-defense": 115,
+    "speed": 80
+  },
+  "color": "white",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "surskit",
+  "types": [
+    "bug",
+    "water"
+  ],
+  "height": 5,
+  "weight": 17,
+  "base_stats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 32,
+    "special-attack": 50,
+    "special-defense": 52,
+    "speed": 65
+  },
+  "color": "blue",
+  "shape": "armor",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "masquerain",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 8,
+  "weight": 36,
+  "base_stats": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 62,
+    "special-attack": 100,
+    "special-defense": 82,
+    "speed": 80
+  },
+  "color": "blue",
+  "shape": "bug-wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "shroomish",
+  "types": [
+    "grass"
+  ],
+  "height": 4,
+  "weight": 45,
+  "base_stats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 60,
+    "special-attack": 40,
+    "special-defense": 60,
+    "speed": 35
+  },
+  "color": "brown",
+  "shape": "legs",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "breloom",
+  "types": [
+    "grass",
+    "fighting"
+  ],
+  "height": 12,
+  "weight": 392,
+  "base_stats": {
+    "hp": 60,
+    "attack": 130,
+    "defense": 80,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 70
+  },
+  "color": "green",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "slakoth",
+  "types": [
+    "normal"
+  ],
+  "height": 8,
+  "weight": 240,
+  "base_stats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 30
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "vigoroth",
+  "types": [
+    "normal"
+  ],
+  "height": 14,
+  "weight": 465,
+  "base_stats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 90
+  },
+  "color": "white",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "slaking",
+  "types": [
+    "normal"
+  ],
+  "height": 20,
+  "weight": 1305,
+  "base_stats": {
+    "hp": 150,
+    "attack": 160,
+    "defense": 100,
+    "special-attack": 95,
+    "special-defense": 65,
+    "speed": 100
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "nincada",
+  "types": [
+    "bug",
+    "ground"
+  ],
+  "height": 5,
+  "weight": 55,
+  "base_stats": {
+    "hp": 31,
+    "attack": 45,
+    "defense": 90,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 40
+  },
+  "color": "gray",
+  "shape": "armor",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ninjask",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 8,
+  "weight": 120,
+  "base_stats": {
+    "hp": 61,
+    "attack": 90,
+    "defense": 45,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 160
+  },
+  "color": "yellow",
+  "shape": "bug-wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "shedinja",
+  "types": [
+    "bug",
+    "ghost"
+  ],
+  "height": 8,
+  "weight": 12,
+  "base_stats": {
+    "hp": 1,
+    "attack": 90,
+    "defense": 45,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 40
+  },
+  "color": "brown",
+  "shape": "blob",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "whismur",
+  "types": [
+    "normal"
+  ],
+  "height": 6,
+  "weight": 163,
+  "base_stats": {
+    "hp": 64,
+    "attack": 51,
+    "defense": 23,
+    "special-attack": 51,
+    "special-defense": 23,
+    "speed": 28
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "loudred",
+  "types": [
+    "normal"
+  ],
+  "height": 10,
+  "weight": 405,
+  "base_stats": {
+    "hp": 84,
+    "attack": 71,
+    "defense": 43,
+    "special-attack": 71,
+    "special-defense": 43,
+    "speed": 48
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "exploud",
+  "types": [
+    "normal"
+  ],
+  "height": 15,
+  "weight": 840,
+  "base_stats": {
+    "hp": 104,
+    "attack": 91,
+    "defense": 63,
+    "special-attack": 91,
+    "special-defense": 73,
+    "speed": 68
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "makuhita",
+  "types": [
+    "fighting"
+  ],
+  "height": 10,
+  "weight": 864,
+  "base_stats": {
+    "hp": 72,
+    "attack": 60,
+    "defense": 30,
+    "special-attack": 20,
+    "special-defense": 30,
+    "speed": 25
+  },
+  "color": "yellow",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "hariyama",
+  "types": [
+    "fighting"
+  ],
+  "height": 23,
+  "weight": 2538,
+  "base_stats": {
+    "hp": 144,
+    "attack": 120,
+    "defense": 60,
+    "special-attack": 40,
+    "special-defense": 60,
+    "speed": 50
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "azurill",
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "height": 2,
+  "weight": 20,
+  "base_stats": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 40,
+    "special-attack": 20,
+    "special-defense": 40,
+    "speed": 20
+  },
+  "color": "blue",
+  "shape": "legs",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "nosepass",
+  "types": [
+    "rock"
+  ],
+  "height": 10,
+  "weight": 970,
+  "base_stats": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 135,
+    "special-attack": 45,
+    "special-defense": 90,
+    "speed": 30
+  },
+  "color": "gray",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "skitty",
+  "types": [
+    "normal"
+  ],
+  "height": 6,
+  "weight": 110,
+  "base_stats": {
+    "hp": 50,
+    "attack": 45,
+    "defense": 45,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 50
+  },
+  "color": "pink",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+Fetched 300 entries so far...
+{
+  "name": "delcatty",
+  "types": [
+    "normal"
+  ],
+  "height": 11,
+  "weight": 326,
+  "base_stats": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 65,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 90
+  },
+  "color": "purple",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "sableye",
+  "types": [
+    "dark",
+    "ghost"
+  ],
+  "height": 5,
+  "weight": 110,
+  "base_stats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 75,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 50
+  },
+  "color": "purple",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mawile",
+  "types": [
+    "steel",
+    "fairy"
+  ],
+  "height": 6,
+  "weight": 115,
+  "base_stats": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 85,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 50
+  },
+  "color": "black",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "aron",
+  "types": [
+    "steel",
+    "rock"
+  ],
+  "height": 4,
+  "weight": 600,
+  "base_stats": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 100,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 30
+  },
+  "color": "gray",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lairon",
+  "types": [
+    "steel",
+    "rock"
+  ],
+  "height": 9,
+  "weight": 1200,
+  "base_stats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 140,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 40
+  },
+  "color": "gray",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "aggron",
+  "types": [
+    "steel",
+    "rock"
+  ],
+  "height": 21,
+  "weight": 3600,
+  "base_stats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 180,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 50
+  },
+  "color": "gray",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "meditite",
+  "types": [
+    "fighting",
+    "psychic"
+  ],
+  "height": 6,
+  "weight": 112,
+  "base_stats": {
+    "hp": 30,
+    "attack": 40,
+    "defense": 55,
+    "special-attack": 40,
+    "special-defense": 55,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "medicham",
+  "types": [
+    "fighting",
+    "psychic"
+  ],
+  "height": 13,
+  "weight": 315,
+  "base_stats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "special-attack": 60,
+    "special-defense": 75,
+    "speed": 80
+  },
+  "color": "red",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "electrike",
+  "types": [
+    "electric"
+  ],
+  "height": 6,
+  "weight": 152,
+  "base_stats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "special-attack": 65,
+    "special-defense": 40,
+    "speed": 65
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "manectric",
+  "types": [
+    "electric"
+  ],
+  "height": 15,
+  "weight": 402,
+  "base_stats": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 60,
+    "special-attack": 105,
+    "special-defense": 60,
+    "speed": 105
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "plusle",
+  "types": [
+    "electric"
+  ],
+  "height": 4,
+  "weight": 42,
+  "base_stats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 40,
+    "special-attack": 85,
+    "special-defense": 75,
+    "speed": 95
+  },
+  "color": "yellow",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "minun",
+  "types": [
+    "electric"
+  ],
+  "height": 4,
+  "weight": 42,
+  "base_stats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 50,
+    "special-attack": 75,
+    "special-defense": 85,
+    "speed": 95
+  },
+  "color": "yellow",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "volbeat",
+  "types": [
+    "bug"
+  ],
+  "height": 7,
+  "weight": 177,
+  "base_stats": {
+    "hp": 65,
+    "attack": 73,
+    "defense": 75,
+    "special-attack": 47,
+    "special-defense": 85,
+    "speed": 85
+  },
+  "color": "gray",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "illumise",
+  "types": [
+    "bug"
+  ],
+  "height": 6,
+  "weight": 177,
+  "base_stats": {
+    "hp": 65,
+    "attack": 47,
+    "defense": 75,
+    "special-attack": 73,
+    "special-defense": 85,
+    "speed": 85
+  },
+  "color": "purple",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "roselia",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 3,
+  "weight": 20,
+  "base_stats": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 45,
+    "special-attack": 100,
+    "special-defense": 80,
+    "speed": 65
+  },
+  "color": "green",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gulpin",
+  "types": [
+    "poison"
+  ],
+  "height": 4,
+  "weight": 103,
+  "base_stats": {
+    "hp": 70,
+    "attack": 43,
+    "defense": 53,
+    "special-attack": 43,
+    "special-defense": 53,
+    "speed": 40
+  },
+  "color": "green",
+  "shape": "arms",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "swalot",
+  "types": [
+    "poison"
+  ],
+  "height": 17,
+  "weight": 800,
+  "base_stats": {
+    "hp": 100,
+    "attack": 73,
+    "defense": 83,
+    "special-attack": 73,
+    "special-defense": 83,
+    "speed": 55
+  },
+  "color": "purple",
+  "shape": "arms",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "carvanha",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "height": 8,
+  "weight": 208,
+  "base_stats": {
+    "hp": 45,
+    "attack": 90,
+    "defense": 20,
+    "special-attack": 65,
+    "special-defense": 20,
+    "speed": 65
+  },
+  "color": "red",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "sharpedo",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "height": 18,
+  "weight": 888,
+  "base_stats": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 40,
+    "special-attack": 95,
+    "special-defense": 40,
+    "speed": 95
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "wailmer",
+  "types": [
+    "water"
+  ],
+  "height": 20,
+  "weight": 1300,
+  "base_stats": {
+    "hp": 130,
+    "attack": 70,
+    "defense": 35,
+    "special-attack": 70,
+    "special-defense": 35,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "wailord",
+  "types": [
+    "water"
+  ],
+  "height": 145,
+  "weight": 3980,
+  "base_stats": {
+    "hp": 170,
+    "attack": 90,
+    "defense": 45,
+    "special-attack": 90,
+    "special-defense": 45,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "numel",
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "height": 7,
+  "weight": 240,
+  "base_stats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 40,
+    "special-attack": 65,
+    "special-defense": 45,
+    "speed": 35
+  },
+  "color": "yellow",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "camerupt",
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "height": 19,
+  "weight": 2200,
+  "base_stats": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "special-attack": 105,
+    "special-defense": 75,
+    "speed": 40
+  },
+  "color": "red",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "torkoal",
+  "types": [
+    "fire"
+  ],
+  "height": 5,
+  "weight": 804,
+  "base_stats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 140,
+    "special-attack": 85,
+    "special-defense": 70,
+    "speed": 20
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "spoink",
+  "types": [
+    "psychic"
+  ],
+  "height": 7,
+  "weight": 306,
+  "base_stats": {
+    "hp": 60,
+    "attack": 25,
+    "defense": 35,
+    "special-attack": 70,
+    "special-defense": 80,
+    "speed": 60
+  },
+  "color": "black",
+  "shape": "arms",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "grumpig",
+  "types": [
+    "psychic"
+  ],
+  "height": 9,
+  "weight": 715,
+  "base_stats": {
+    "hp": 80,
+    "attack": 45,
+    "defense": 65,
+    "special-attack": 90,
+    "special-defense": 110,
+    "speed": 80
+  },
+  "color": "purple",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "spinda",
+  "types": [
+    "normal"
+  ],
+  "height": 11,
+  "weight": 50,
+  "base_stats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 60
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "trapinch",
+  "types": [
+    "ground"
+  ],
+  "height": 7,
+  "weight": 150,
+  "base_stats": {
+    "hp": 45,
+    "attack": 100,
+    "defense": 45,
+    "special-attack": 45,
+    "special-defense": 45,
+    "speed": 10
+  },
+  "color": "brown",
+  "shape": "armor",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "vibrava",
+  "types": [
+    "ground",
+    "dragon"
+  ],
+  "height": 11,
+  "weight": 153,
+  "base_stats": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 70
+  },
+  "color": "green",
+  "shape": "bug-wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "flygon",
+  "types": [
+    "ground",
+    "dragon"
+  ],
+  "height": 20,
+  "weight": 820,
+  "base_stats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 80,
+    "special-attack": 80,
+    "special-defense": 80,
+    "speed": 100
+  },
+  "color": "green",
+  "shape": "wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "cacnea",
+  "types": [
+    "grass"
+  ],
+  "height": 4,
+  "weight": 513,
+  "base_stats": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 40,
+    "special-attack": 85,
+    "special-defense": 40,
+    "speed": 35
+  },
+  "color": "green",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "cacturne",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "height": 13,
+  "weight": 774,
+  "base_stats": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 60,
+    "special-attack": 115,
+    "special-defense": 60,
+    "speed": 55
+  },
+  "color": "green",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "swablu",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 4,
+  "weight": 12,
+  "base_stats": {
+    "hp": 45,
+    "attack": 40,
+    "defense": 60,
+    "special-attack": 40,
+    "special-defense": 75,
+    "speed": 50
+  },
+  "color": "blue",
+  "shape": "wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "altaria",
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "height": 11,
+  "weight": 206,
+  "base_stats": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 90,
+    "special-attack": 70,
+    "special-defense": 105,
+    "speed": 80
+  },
+  "color": "blue",
+  "shape": "wings",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "zangoose",
+  "types": [
+    "normal"
+  ],
+  "height": 13,
+  "weight": 403,
+  "base_stats": {
+    "hp": 73,
+    "attack": 115,
+    "defense": 60,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 90
+  },
+  "color": "white",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "seviper",
+  "types": [
+    "poison"
+  ],
+  "height": 27,
+  "weight": 525,
+  "base_stats": {
+    "hp": 73,
+    "attack": 100,
+    "defense": 60,
+    "special-attack": 100,
+    "special-defense": 60,
+    "speed": 65
+  },
+  "color": "black",
+  "shape": "squiggle",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lunatone",
+  "types": [
+    "rock",
+    "psychic"
+  ],
+  "height": 10,
+  "weight": 1680,
+  "base_stats": {
+    "hp": 90,
+    "attack": 55,
+    "defense": 65,
+    "special-attack": 95,
+    "special-defense": 85,
+    "speed": 70
+  },
+  "color": "yellow",
+  "shape": "ball",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "solrock",
+  "types": [
+    "rock",
+    "psychic"
+  ],
+  "height": 12,
+  "weight": 1540,
+  "base_stats": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 85,
+    "special-attack": 55,
+    "special-defense": 65,
+    "speed": 70
+  },
+  "color": "red",
+  "shape": "ball",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "barboach",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "height": 4,
+  "weight": 19,
+  "base_stats": {
+    "hp": 50,
+    "attack": 48,
+    "defense": 43,
+    "special-attack": 46,
+    "special-defense": 41,
+    "speed": 60
+  },
+  "color": "gray",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "whiscash",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "height": 9,
+  "weight": 236,
+  "base_stats": {
+    "hp": 110,
+    "attack": 78,
+    "defense": 73,
+    "special-attack": 76,
+    "special-defense": 71,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "corphish",
+  "types": [
+    "water"
+  ],
+  "height": 6,
+  "weight": 115,
+  "base_stats": {
+    "hp": 43,
+    "attack": 80,
+    "defense": 65,
+    "special-attack": 50,
+    "special-defense": 35,
+    "speed": 35
+  },
+  "color": "red",
+  "shape": "armor",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "crawdaunt",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "height": 11,
+  "weight": 328,
+  "base_stats": {
+    "hp": 63,
+    "attack": 120,
+    "defense": 85,
+    "special-attack": 90,
+    "special-defense": 55,
+    "speed": 55
+  },
+  "color": "red",
+  "shape": "armor",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "baltoy",
+  "types": [
+    "ground",
+    "psychic"
+  ],
+  "height": 5,
+  "weight": 215,
+  "base_stats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 55,
+    "special-attack": 40,
+    "special-defense": 70,
+    "speed": 55
+  },
+  "color": "brown",
+  "shape": "arms",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "claydol",
+  "types": [
+    "ground",
+    "psychic"
+  ],
+  "height": 15,
+  "weight": 1080,
+  "base_stats": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 105,
+    "special-attack": 70,
+    "special-defense": 120,
+    "speed": 75
+  },
+  "color": "black",
+  "shape": "arms",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lileep",
+  "types": [
+    "rock",
+    "grass"
+  ],
+  "height": 10,
+  "weight": 238,
+  "base_stats": {
+    "hp": 66,
+    "attack": 41,
+    "defense": 77,
+    "special-attack": 61,
+    "special-defense": 87,
+    "speed": 23
+  },
+  "color": "purple",
+  "shape": "blob",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "cradily",
+  "types": [
+    "rock",
+    "grass"
+  ],
+  "height": 15,
+  "weight": 604,
+  "base_stats": {
+    "hp": 86,
+    "attack": 81,
+    "defense": 97,
+    "special-attack": 81,
+    "special-defense": 107,
+    "speed": 43
+  },
+  "color": "green",
+  "shape": "blob",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "anorith",
+  "types": [
+    "rock",
+    "bug"
+  ],
+  "height": 7,
+  "weight": 125,
+  "base_stats": {
+    "hp": 45,
+    "attack": 95,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 75
+  },
+  "color": "gray",
+  "shape": "armor",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "armaldo",
+  "types": [
+    "rock",
+    "bug"
+  ],
+  "height": 15,
+  "weight": 682,
+  "base_stats": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 100,
+    "special-attack": 70,
+    "special-defense": 80,
+    "speed": 45
+  },
+  "color": "gray",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "feebas",
+  "types": [
+    "water"
+  ],
+  "height": 6,
+  "weight": 74,
+  "base_stats": {
+    "hp": 20,
+    "attack": 15,
+    "defense": 20,
+    "special-attack": 10,
+    "special-defense": 55,
+    "speed": 80
+  },
+  "color": "brown",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "milotic",
+  "types": [
+    "water"
+  ],
+  "height": 62,
+  "weight": 1620,
+  "base_stats": {
+    "hp": 95,
+    "attack": 60,
+    "defense": 79,
+    "special-attack": 100,
+    "special-defense": 125,
+    "speed": 81
+  },
+  "color": "pink",
+  "shape": "squiggle",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+Fetched 350 entries so far...
+{
+  "name": "castform",
+  "types": [
+    "normal"
+  ],
+  "height": 3,
+  "weight": 8,
+  "base_stats": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "special-attack": 70,
+    "special-defense": 70,
+    "speed": 70
+  },
+  "color": "gray",
+  "shape": "ball",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "kecleon",
+  "types": [
+    "normal"
+  ],
+  "height": 10,
+  "weight": 220,
+  "base_stats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 70,
+    "special-attack": 60,
+    "special-defense": 120,
+    "speed": 40
+  },
+  "color": "green",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "shuppet",
+  "types": [
+    "ghost"
+  ],
+  "height": 6,
+  "weight": 23,
+  "base_stats": {
+    "hp": 44,
+    "attack": 75,
+    "defense": 35,
+    "special-attack": 63,
+    "special-defense": 33,
+    "speed": 45
+  },
+  "color": "black",
+  "shape": "ball",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "banette",
+  "types": [
+    "ghost"
+  ],
+  "height": 11,
+  "weight": 125,
+  "base_stats": {
+    "hp": 64,
+    "attack": 115,
+    "defense": 65,
+    "special-attack": 83,
+    "special-defense": 63,
+    "speed": 65
+  },
+  "color": "black",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "duskull",
+  "types": [
+    "ghost"
+  ],
+  "height": 8,
+  "weight": 150,
+  "base_stats": {
+    "hp": 20,
+    "attack": 40,
+    "defense": 90,
+    "special-attack": 30,
+    "special-defense": 90,
+    "speed": 25
+  },
+  "color": "black",
+  "shape": "arms",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "dusclops",
+  "types": [
+    "ghost"
+  ],
+  "height": 16,
+  "weight": 306,
+  "base_stats": {
+    "hp": 40,
+    "attack": 70,
+    "defense": 130,
+    "special-attack": 60,
+    "special-defense": 130,
+    "speed": 25
+  },
+  "color": "black",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "tropius",
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "height": 20,
+  "weight": 1000,
+  "base_stats": {
+    "hp": 99,
+    "attack": 68,
+    "defense": 83,
+    "special-attack": 72,
+    "special-defense": 87,
+    "speed": 51
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "chimecho",
+  "types": [
+    "psychic"
+  ],
+  "height": 6,
+  "weight": 10,
+  "base_stats": {
+    "hp": 75,
+    "attack": 50,
+    "defense": 80,
+    "special-attack": 95,
+    "special-defense": 90,
+    "speed": 65
+  },
+  "color": "blue",
+  "shape": "arms",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "absol",
+  "types": [
+    "dark"
+  ],
+  "height": 12,
+  "weight": 470,
+  "base_stats": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "special-attack": 75,
+    "special-defense": 60,
+    "speed": 75
+  },
+  "color": "white",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "wynaut",
+  "types": [
+    "psychic"
+  ],
+  "height": 6,
+  "weight": 140,
+  "base_stats": {
+    "hp": 95,
+    "attack": 23,
+    "defense": 48,
+    "special-attack": 23,
+    "special-defense": 48,
+    "speed": 23
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "snorunt",
+  "types": [
+    "ice"
+  ],
+  "height": 7,
+  "weight": 168,
+  "base_stats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 50,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 50
+  },
+  "color": "gray",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "glalie",
+  "types": [
+    "ice"
+  ],
+  "height": 15,
+  "weight": 2565,
+  "base_stats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "special-attack": 80,
+    "special-defense": 80,
+    "speed": 80
+  },
+  "color": "gray",
+  "shape": "ball",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "spheal",
+  "types": [
+    "ice",
+    "water"
+  ],
+  "height": 8,
+  "weight": 395,
+  "base_stats": {
+    "hp": 70,
+    "attack": 40,
+    "defense": 50,
+    "special-attack": 55,
+    "special-defense": 50,
+    "speed": 25
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "sealeo",
+  "types": [
+    "ice",
+    "water"
+  ],
+  "height": 11,
+  "weight": 876,
+  "base_stats": {
+    "hp": 90,
+    "attack": 60,
+    "defense": 70,
+    "special-attack": 75,
+    "special-defense": 70,
+    "speed": 45
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "walrein",
+  "types": [
+    "ice",
+    "water"
+  ],
+  "height": 14,
+  "weight": 1506,
+  "base_stats": {
+    "hp": 110,
+    "attack": 80,
+    "defense": 90,
+    "special-attack": 95,
+    "special-defense": 90,
+    "speed": 65
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "clamperl",
+  "types": [
+    "water"
+  ],
+  "height": 4,
+  "weight": 525,
+  "base_stats": {
+    "hp": 35,
+    "attack": 64,
+    "defense": 85,
+    "special-attack": 74,
+    "special-defense": 55,
+    "speed": 32
+  },
+  "color": "blue",
+  "shape": "ball",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "huntail",
+  "types": [
+    "water"
+  ],
+  "height": 17,
+  "weight": 270,
+  "base_stats": {
+    "hp": 55,
+    "attack": 104,
+    "defense": 105,
+    "special-attack": 94,
+    "special-defense": 75,
+    "speed": 52
+  },
+  "color": "blue",
+  "shape": "squiggle",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gorebyss",
+  "types": [
+    "water"
+  ],
+  "height": 18,
+  "weight": 226,
+  "base_stats": {
+    "hp": 55,
+    "attack": 84,
+    "defense": 105,
+    "special-attack": 114,
+    "special-defense": 75,
+    "speed": 52
+  },
+  "color": "pink",
+  "shape": "squiggle",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "relicanth",
+  "types": [
+    "water",
+    "rock"
+  ],
+  "height": 10,
+  "weight": 234,
+  "base_stats": {
+    "hp": 100,
+    "attack": 90,
+    "defense": 130,
+    "special-attack": 45,
+    "special-defense": 65,
+    "speed": 55
+  },
+  "color": "gray",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "luvdisc",
+  "types": [
+    "water"
+  ],
+  "height": 6,
+  "weight": 87,
+  "base_stats": {
+    "hp": 43,
+    "attack": 30,
+    "defense": 55,
+    "special-attack": 40,
+    "special-defense": 65,
+    "speed": 97
+  },
+  "color": "pink",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "bagon",
+  "types": [
+    "dragon"
+  ],
+  "height": 6,
+  "weight": 421,
+  "base_stats": {
+    "hp": 45,
+    "attack": 75,
+    "defense": 60,
+    "special-attack": 40,
+    "special-defense": 30,
+    "speed": 50
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "shelgon",
+  "types": [
+    "dragon"
+  ],
+  "height": 11,
+  "weight": 1105,
+  "base_stats": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 100,
+    "special-attack": 60,
+    "special-defense": 50,
+    "speed": 50
+  },
+  "color": "white",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "salamence",
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "height": 15,
+  "weight": 1026,
+  "base_stats": {
+    "hp": 95,
+    "attack": 135,
+    "defense": 80,
+    "special-attack": 110,
+    "special-defense": 80,
+    "speed": 100
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "beldum",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "height": 6,
+  "weight": 952,
+  "base_stats": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 80,
+    "special-attack": 35,
+    "special-defense": 60,
+    "speed": 30
+  },
+  "color": "blue",
+  "shape": "blob",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "metang",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "height": 12,
+  "weight": 2025,
+  "base_stats": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 100,
+    "special-attack": 55,
+    "special-defense": 80,
+    "speed": 50
+  },
+  "color": "blue",
+  "shape": "arms",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "metagross",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "height": 16,
+  "weight": 5500,
+  "base_stats": {
+    "hp": 80,
+    "attack": 135,
+    "defense": 130,
+    "special-attack": 95,
+    "special-defense": 90,
+    "speed": 70
+  },
+  "color": "blue",
+  "shape": "heads",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "regirock",
+  "types": [
+    "rock"
+  ],
+  "height": 17,
+  "weight": 2300,
+  "base_stats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 200,
+    "special-attack": 50,
+    "special-defense": 100,
+    "speed": 50
+  },
+  "color": "brown",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "regice",
+  "types": [
+    "ice"
+  ],
+  "height": 18,
+  "weight": 1750,
+  "base_stats": {
+    "hp": 80,
+    "attack": 50,
+    "defense": 100,
+    "special-attack": 100,
+    "special-defense": 200,
+    "speed": 50
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "registeel",
+  "types": [
+    "steel"
+  ],
+  "height": 19,
+  "weight": 2050,
+  "base_stats": {
+    "hp": 80,
+    "attack": 75,
+    "defense": 150,
+    "special-attack": 75,
+    "special-defense": 150,
+    "speed": 50
+  },
+  "color": "gray",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "latias",
+  "types": [
+    "dragon",
+    "psychic"
+  ],
+  "height": 14,
+  "weight": 400,
+  "base_stats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 90,
+    "special-attack": 110,
+    "special-defense": 130,
+    "speed": 110
+  },
+  "color": "red",
+  "shape": "wings",
+  "generation": "generation-iii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "latios",
+  "types": [
+    "dragon",
+    "psychic"
+  ],
+  "height": 20,
+  "weight": 600,
+  "base_stats": {
+    "hp": 80,
+    "attack": 90,
+    "defense": 80,
+    "special-attack": 130,
+    "special-defense": 110,
+    "speed": 110
+  },
+  "color": "blue",
+  "shape": "wings",
+  "generation": "generation-iii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "kyogre",
+  "types": [
+    "water"
+  ],
+  "height": 45,
+  "weight": 3520,
+  "base_stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 90,
+    "special-attack": 150,
+    "special-defense": 140,
+    "speed": 90
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-iii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "groudon",
+  "types": [
+    "ground"
+  ],
+  "height": 35,
+  "weight": 9500,
+  "base_stats": {
+    "hp": 100,
+    "attack": 150,
+    "defense": 140,
+    "special-attack": 100,
+    "special-defense": 90,
+    "speed": 90
+  },
+  "color": "red",
+  "shape": "upright",
+  "generation": "generation-iii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "rayquaza",
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "height": 70,
+  "weight": 2065,
+  "base_stats": {
+    "hp": 105,
+    "attack": 150,
+    "defense": 90,
+    "special-attack": 150,
+    "special-defense": 90,
+    "speed": 95
+  },
+  "color": "green",
+  "shape": "squiggle",
+  "generation": "generation-iii",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "jirachi",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "height": 3,
+  "weight": 11,
+  "base_stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special-attack": 100,
+    "special-defense": 100,
+    "speed": 100
+  },
+  "color": "yellow",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": true
+}
+{
+  "name": "deoxys-normal",
+  "types": [
+    "psychic"
+  ],
+  "height": 17,
+  "weight": 608,
+  "base_stats": {
+    "hp": 50,
+    "attack": 150,
+    "defense": 50,
+    "special-attack": 150,
+    "special-defense": 50,
+    "speed": 150
+  },
+  "color": "red",
+  "shape": "humanoid",
+  "generation": "generation-iii",
+  "is_legendary": false,
+  "is_mythical": true
+}
+{
+  "name": "turtwig",
+  "types": [
+    "grass"
+  ],
+  "height": 4,
+  "weight": 102,
+  "base_stats": {
+    "hp": 55,
+    "attack": 68,
+    "defense": 64,
+    "special-attack": 45,
+    "special-defense": 55,
+    "speed": 31
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "grotle",
+  "types": [
+    "grass"
+  ],
+  "height": 11,
+  "weight": 970,
+  "base_stats": {
+    "hp": 75,
+    "attack": 89,
+    "defense": 85,
+    "special-attack": 55,
+    "special-defense": 65,
+    "speed": 36
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "torterra",
+  "types": [
+    "grass",
+    "ground"
+  ],
+  "height": 22,
+  "weight": 3100,
+  "base_stats": {
+    "hp": 95,
+    "attack": 109,
+    "defense": 105,
+    "special-attack": 75,
+    "special-defense": 85,
+    "speed": 56
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "chimchar",
+  "types": [
+    "fire"
+  ],
+  "height": 5,
+  "weight": 62,
+  "base_stats": {
+    "hp": 44,
+    "attack": 58,
+    "defense": 44,
+    "special-attack": 58,
+    "special-defense": 44,
+    "speed": 61
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "monferno",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "height": 9,
+  "weight": 220,
+  "base_stats": {
+    "hp": 64,
+    "attack": 78,
+    "defense": 52,
+    "special-attack": 78,
+    "special-defense": 52,
+    "speed": 81
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "infernape",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "height": 12,
+  "weight": 550,
+  "base_stats": {
+    "hp": 76,
+    "attack": 104,
+    "defense": 71,
+    "special-attack": 104,
+    "special-defense": 71,
+    "speed": 108
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "piplup",
+  "types": [
+    "water"
+  ],
+  "height": 4,
+  "weight": 52,
+  "base_stats": {
+    "hp": 53,
+    "attack": 51,
+    "defense": 53,
+    "special-attack": 61,
+    "special-defense": 56,
+    "speed": 40
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "prinplup",
+  "types": [
+    "water"
+  ],
+  "height": 8,
+  "weight": 230,
+  "base_stats": {
+    "hp": 64,
+    "attack": 66,
+    "defense": 68,
+    "special-attack": 81,
+    "special-defense": 76,
+    "speed": 50
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "empoleon",
+  "types": [
+    "water",
+    "steel"
+  ],
+  "height": 17,
+  "weight": 845,
+  "base_stats": {
+    "hp": 84,
+    "attack": 86,
+    "defense": 88,
+    "special-attack": 111,
+    "special-defense": 101,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "starly",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 3,
+  "weight": 20,
+  "base_stats": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 60
+  },
+  "color": "brown",
+  "shape": "wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "staravia",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 6,
+  "weight": 155,
+  "base_stats": {
+    "hp": 55,
+    "attack": 75,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 80
+  },
+  "color": "brown",
+  "shape": "wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "staraptor",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 12,
+  "weight": 249,
+  "base_stats": {
+    "hp": 85,
+    "attack": 120,
+    "defense": 70,
+    "special-attack": 50,
+    "special-defense": 60,
+    "speed": 100
+  },
+  "color": "brown",
+  "shape": "wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "bidoof",
+  "types": [
+    "normal"
+  ],
+  "height": 5,
+  "weight": 200,
+  "base_stats": {
+    "hp": 59,
+    "attack": 45,
+    "defense": 40,
+    "special-attack": 35,
+    "special-defense": 40,
+    "speed": 31
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "bibarel",
+  "types": [
+    "normal",
+    "water"
+  ],
+  "height": 10,
+  "weight": 315,
+  "base_stats": {
+    "hp": 79,
+    "attack": 85,
+    "defense": 60,
+    "special-attack": 55,
+    "special-defense": 60,
+    "speed": 71
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+Fetched 400 entries so far...
+{
+  "name": "kricketot",
+  "types": [
+    "bug"
+  ],
+  "height": 3,
+  "weight": 22,
+  "base_stats": {
+    "hp": 37,
+    "attack": 25,
+    "defense": 41,
+    "special-attack": 25,
+    "special-defense": 41,
+    "speed": 25
+  },
+  "color": "red",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "kricketune",
+  "types": [
+    "bug"
+  ],
+  "height": 10,
+  "weight": 255,
+  "base_stats": {
+    "hp": 77,
+    "attack": 85,
+    "defense": 51,
+    "special-attack": 55,
+    "special-defense": 51,
+    "speed": 65
+  },
+  "color": "red",
+  "shape": "bug-wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "shinx",
+  "types": [
+    "electric"
+  ],
+  "height": 5,
+  "weight": 95,
+  "base_stats": {
+    "hp": 45,
+    "attack": 65,
+    "defense": 34,
+    "special-attack": 40,
+    "special-defense": 34,
+    "speed": 45
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "luxio",
+  "types": [
+    "electric"
+  ],
+  "height": 9,
+  "weight": 305,
+  "base_stats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 49,
+    "special-attack": 60,
+    "special-defense": 49,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "luxray",
+  "types": [
+    "electric"
+  ],
+  "height": 14,
+  "weight": 420,
+  "base_stats": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 79,
+    "special-attack": 95,
+    "special-defense": 79,
+    "speed": 70
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "budew",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 2,
+  "weight": 12,
+  "base_stats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "special-attack": 50,
+    "special-defense": 70,
+    "speed": 55
+  },
+  "color": "green",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "roserade",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "height": 9,
+  "weight": 145,
+  "base_stats": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 65,
+    "special-attack": 125,
+    "special-defense": 105,
+    "speed": 90
+  },
+  "color": "green",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "cranidos",
+  "types": [
+    "rock"
+  ],
+  "height": 9,
+  "weight": 315,
+  "base_stats": {
+    "hp": 67,
+    "attack": 125,
+    "defense": 40,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 58
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "rampardos",
+  "types": [
+    "rock"
+  ],
+  "height": 16,
+  "weight": 1025,
+  "base_stats": {
+    "hp": 97,
+    "attack": 165,
+    "defense": 60,
+    "special-attack": 65,
+    "special-defense": 50,
+    "speed": 58
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "shieldon",
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "height": 5,
+  "weight": 570,
+  "base_stats": {
+    "hp": 30,
+    "attack": 42,
+    "defense": 118,
+    "special-attack": 42,
+    "special-defense": 88,
+    "speed": 30
+  },
+  "color": "gray",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "bastiodon",
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "height": 13,
+  "weight": 1495,
+  "base_stats": {
+    "hp": 60,
+    "attack": 52,
+    "defense": 168,
+    "special-attack": 47,
+    "special-defense": 138,
+    "speed": 30
+  },
+  "color": "gray",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "burmy",
+  "types": [
+    "bug"
+  ],
+  "height": 2,
+  "weight": 34,
+  "base_stats": {
+    "hp": 40,
+    "attack": 29,
+    "defense": 45,
+    "special-attack": 29,
+    "special-defense": 45,
+    "speed": 36
+  },
+  "color": "green",
+  "shape": "blob",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "wormadam-plant",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "height": 5,
+  "weight": 65,
+  "base_stats": {
+    "hp": 60,
+    "attack": 59,
+    "defense": 85,
+    "special-attack": 79,
+    "special-defense": 105,
+    "speed": 36
+  },
+  "color": "green",
+  "shape": "blob",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mothim",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 9,
+  "weight": 233,
+  "base_stats": {
+    "hp": 70,
+    "attack": 94,
+    "defense": 50,
+    "special-attack": 94,
+    "special-defense": 50,
+    "speed": 66
+  },
+  "color": "yellow",
+  "shape": "bug-wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "combee",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 3,
+  "weight": 55,
+  "base_stats": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 42,
+    "special-attack": 30,
+    "special-defense": 42,
+    "speed": 70
+  },
+  "color": "yellow",
+  "shape": "heads",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "vespiquen",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 12,
+  "weight": 385,
+  "base_stats": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 102,
+    "special-attack": 80,
+    "special-defense": 102,
+    "speed": 40
+  },
+  "color": "yellow",
+  "shape": "bug-wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "pachirisu",
+  "types": [
+    "electric"
+  ],
+  "height": 4,
+  "weight": 39,
+  "base_stats": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 70,
+    "special-attack": 45,
+    "special-defense": 90,
+    "speed": 95
+  },
+  "color": "white",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "buizel",
+  "types": [
+    "water"
+  ],
+  "height": 7,
+  "weight": 295,
+  "base_stats": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 35,
+    "special-attack": 60,
+    "special-defense": 30,
+    "speed": 85
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "floatzel",
+  "types": [
+    "water"
+  ],
+  "height": 11,
+  "weight": 335,
+  "base_stats": {
+    "hp": 85,
+    "attack": 105,
+    "defense": 55,
+    "special-attack": 85,
+    "special-defense": 50,
+    "speed": 115
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "cherubi",
+  "types": [
+    "grass"
+  ],
+  "height": 4,
+  "weight": 33,
+  "base_stats": {
+    "hp": 45,
+    "attack": 35,
+    "defense": 45,
+    "special-attack": 62,
+    "special-defense": 53,
+    "speed": 35
+  },
+  "color": "pink",
+  "shape": "heads",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "cherrim",
+  "types": [
+    "grass"
+  ],
+  "height": 5,
+  "weight": 93,
+  "base_stats": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 70,
+    "special-attack": 87,
+    "special-defense": 78,
+    "speed": 85
+  },
+  "color": "purple",
+  "shape": "legs",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "shellos",
+  "types": [
+    "water"
+  ],
+  "height": 3,
+  "weight": 63,
+  "base_stats": {
+    "hp": 76,
+    "attack": 48,
+    "defense": 48,
+    "special-attack": 57,
+    "special-defense": 62,
+    "speed": 34
+  },
+  "color": "purple",
+  "shape": "squiggle",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gastrodon",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "height": 9,
+  "weight": 299,
+  "base_stats": {
+    "hp": 111,
+    "attack": 83,
+    "defense": 68,
+    "special-attack": 92,
+    "special-defense": 82,
+    "speed": 39
+  },
+  "color": "purple",
+  "shape": "squiggle",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "ambipom",
+  "types": [
+    "normal"
+  ],
+  "height": 12,
+  "weight": 203,
+  "base_stats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 66,
+    "special-attack": 60,
+    "special-defense": 66,
+    "speed": 115
+  },
+  "color": "purple",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "drifloon",
+  "types": [
+    "ghost",
+    "flying"
+  ],
+  "height": 4,
+  "weight": 12,
+  "base_stats": {
+    "hp": 90,
+    "attack": 50,
+    "defense": 34,
+    "special-attack": 60,
+    "special-defense": 44,
+    "speed": 70
+  },
+  "color": "purple",
+  "shape": "arms",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "drifblim",
+  "types": [
+    "ghost",
+    "flying"
+  ],
+  "height": 12,
+  "weight": 150,
+  "base_stats": {
+    "hp": 150,
+    "attack": 80,
+    "defense": 44,
+    "special-attack": 90,
+    "special-defense": 54,
+    "speed": 80
+  },
+  "color": "purple",
+  "shape": "arms",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "buneary",
+  "types": [
+    "normal"
+  ],
+  "height": 4,
+  "weight": 55,
+  "base_stats": {
+    "hp": 55,
+    "attack": 66,
+    "defense": 44,
+    "special-attack": 44,
+    "special-defense": 56,
+    "speed": 85
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lopunny",
+  "types": [
+    "normal"
+  ],
+  "height": 12,
+  "weight": 333,
+  "base_stats": {
+    "hp": 65,
+    "attack": 76,
+    "defense": 84,
+    "special-attack": 54,
+    "special-defense": 96,
+    "speed": 105
+  },
+  "color": "brown",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mismagius",
+  "types": [
+    "ghost"
+  ],
+  "height": 9,
+  "weight": 44,
+  "base_stats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "special-attack": 105,
+    "special-defense": 105,
+    "speed": 105
+  },
+  "color": "purple",
+  "shape": "ball",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "honchkrow",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "height": 9,
+  "weight": 273,
+  "base_stats": {
+    "hp": 100,
+    "attack": 125,
+    "defense": 52,
+    "special-attack": 105,
+    "special-defense": 52,
+    "speed": 71
+  },
+  "color": "black",
+  "shape": "wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "glameow",
+  "types": [
+    "normal"
+  ],
+  "height": 5,
+  "weight": 39,
+  "base_stats": {
+    "hp": 49,
+    "attack": 55,
+    "defense": 42,
+    "special-attack": 42,
+    "special-defense": 37,
+    "speed": 85
+  },
+  "color": "gray",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "purugly",
+  "types": [
+    "normal"
+  ],
+  "height": 10,
+  "weight": 438,
+  "base_stats": {
+    "hp": 71,
+    "attack": 82,
+    "defense": 64,
+    "special-attack": 64,
+    "special-defense": 59,
+    "speed": 112
+  },
+  "color": "gray",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "chingling",
+  "types": [
+    "psychic"
+  ],
+  "height": 2,
+  "weight": 6,
+  "base_stats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "special-attack": 65,
+    "special-defense": 50,
+    "speed": 45
+  },
+  "color": "yellow",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "stunky",
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "height": 4,
+  "weight": 192,
+  "base_stats": {
+    "hp": 63,
+    "attack": 63,
+    "defense": 47,
+    "special-attack": 41,
+    "special-defense": 41,
+    "speed": 74
+  },
+  "color": "purple",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "skuntank",
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "height": 10,
+  "weight": 380,
+  "base_stats": {
+    "hp": 103,
+    "attack": 93,
+    "defense": 67,
+    "special-attack": 71,
+    "special-defense": 61,
+    "speed": 84
+  },
+  "color": "purple",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "bronzor",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "height": 5,
+  "weight": 605,
+  "base_stats": {
+    "hp": 57,
+    "attack": 24,
+    "defense": 86,
+    "special-attack": 24,
+    "special-defense": 86,
+    "speed": 23
+  },
+  "color": "green",
+  "shape": "ball",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "bronzong",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "height": 13,
+  "weight": 1870,
+  "base_stats": {
+    "hp": 67,
+    "attack": 89,
+    "defense": 116,
+    "special-attack": 79,
+    "special-defense": 116,
+    "speed": 33
+  },
+  "color": "green",
+  "shape": "arms",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "bonsly",
+  "types": [
+    "rock"
+  ],
+  "height": 5,
+  "weight": 150,
+  "base_stats": {
+    "hp": 50,
+    "attack": 80,
+    "defense": 95,
+    "special-attack": 10,
+    "special-defense": 45,
+    "speed": 10
+  },
+  "color": "brown",
+  "shape": "legs",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mime-jr",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "height": 6,
+  "weight": 130,
+  "base_stats": {
+    "hp": 20,
+    "attack": 25,
+    "defense": 45,
+    "special-attack": 70,
+    "special-defense": 90,
+    "speed": 60
+  },
+  "color": "pink",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "happiny",
+  "types": [
+    "normal"
+  ],
+  "height": 6,
+  "weight": 244,
+  "base_stats": {
+    "hp": 100,
+    "attack": 5,
+    "defense": 5,
+    "special-attack": 15,
+    "special-defense": 65,
+    "speed": 30
+  },
+  "color": "pink",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "chatot",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "height": 5,
+  "weight": 19,
+  "base_stats": {
+    "hp": 76,
+    "attack": 65,
+    "defense": 45,
+    "special-attack": 92,
+    "special-defense": 42,
+    "speed": 91
+  },
+  "color": "black",
+  "shape": "wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "spiritomb",
+  "types": [
+    "ghost",
+    "dark"
+  ],
+  "height": 10,
+  "weight": 1080,
+  "base_stats": {
+    "hp": 50,
+    "attack": 92,
+    "defense": 108,
+    "special-attack": 92,
+    "special-defense": 108,
+    "speed": 35
+  },
+  "color": "purple",
+  "shape": "blob",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gible",
+  "types": [
+    "dragon",
+    "ground"
+  ],
+  "height": 7,
+  "weight": 205,
+  "base_stats": {
+    "hp": 58,
+    "attack": 70,
+    "defense": 45,
+    "special-attack": 40,
+    "special-defense": 45,
+    "speed": 42
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gabite",
+  "types": [
+    "dragon",
+    "ground"
+  ],
+  "height": 14,
+  "weight": 560,
+  "base_stats": {
+    "hp": 68,
+    "attack": 90,
+    "defense": 65,
+    "special-attack": 50,
+    "special-defense": 55,
+    "speed": 82
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "garchomp",
+  "types": [
+    "dragon",
+    "ground"
+  ],
+  "height": 19,
+  "weight": 950,
+  "base_stats": {
+    "hp": 108,
+    "attack": 130,
+    "defense": 95,
+    "special-attack": 80,
+    "special-defense": 85,
+    "speed": 102
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "munchlax",
+  "types": [
+    "normal"
+  ],
+  "height": 6,
+  "weight": 1050,
+  "base_stats": {
+    "hp": 135,
+    "attack": 85,
+    "defense": 40,
+    "special-attack": 40,
+    "special-defense": 85,
+    "speed": 5
+  },
+  "color": "black",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "riolu",
+  "types": [
+    "fighting"
+  ],
+  "height": 7,
+  "weight": 202,
+  "base_stats": {
+    "hp": 40,
+    "attack": 70,
+    "defense": 40,
+    "special-attack": 35,
+    "special-defense": 40,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lucario",
+  "types": [
+    "fighting",
+    "steel"
+  ],
+  "height": 12,
+  "weight": 540,
+  "base_stats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 70,
+    "special-attack": 115,
+    "special-defense": 70,
+    "speed": 90
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "hippopotas",
+  "types": [
+    "ground"
+  ],
+  "height": 8,
+  "weight": 495,
+  "base_stats": {
+    "hp": 68,
+    "attack": 72,
+    "defense": 78,
+    "special-attack": 38,
+    "special-defense": 42,
+    "speed": 32
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "hippowdon",
+  "types": [
+    "ground"
+  ],
+  "height": 20,
+  "weight": 3000,
+  "base_stats": {
+    "hp": 108,
+    "attack": 112,
+    "defense": 118,
+    "special-attack": 68,
+    "special-defense": 72,
+    "speed": 47
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+Fetched 450 entries so far...
+{
+  "name": "skorupi",
+  "types": [
+    "poison",
+    "bug"
+  ],
+  "height": 8,
+  "weight": 120,
+  "base_stats": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 90,
+    "special-attack": 30,
+    "special-defense": 55,
+    "speed": 65
+  },
+  "color": "purple",
+  "shape": "armor",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "drapion",
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "height": 13,
+  "weight": 615,
+  "base_stats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 110,
+    "special-attack": 60,
+    "special-defense": 75,
+    "speed": 95
+  },
+  "color": "purple",
+  "shape": "armor",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "croagunk",
+  "types": [
+    "poison",
+    "fighting"
+  ],
+  "height": 7,
+  "weight": 230,
+  "base_stats": {
+    "hp": 48,
+    "attack": 61,
+    "defense": 40,
+    "special-attack": 61,
+    "special-defense": 40,
+    "speed": 50
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "toxicroak",
+  "types": [
+    "poison",
+    "fighting"
+  ],
+  "height": 13,
+  "weight": 444,
+  "base_stats": {
+    "hp": 83,
+    "attack": 106,
+    "defense": 65,
+    "special-attack": 86,
+    "special-defense": 65,
+    "speed": 85
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "carnivine",
+  "types": [
+    "grass"
+  ],
+  "height": 14,
+  "weight": 270,
+  "base_stats": {
+    "hp": 74,
+    "attack": 100,
+    "defense": 72,
+    "special-attack": 90,
+    "special-defense": 72,
+    "speed": 46
+  },
+  "color": "green",
+  "shape": "tentacles",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "finneon",
+  "types": [
+    "water"
+  ],
+  "height": 4,
+  "weight": 70,
+  "base_stats": {
+    "hp": 49,
+    "attack": 49,
+    "defense": 56,
+    "special-attack": 49,
+    "special-defense": 61,
+    "speed": 66
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lumineon",
+  "types": [
+    "water"
+  ],
+  "height": 12,
+  "weight": 240,
+  "base_stats": {
+    "hp": 69,
+    "attack": 69,
+    "defense": 76,
+    "special-attack": 69,
+    "special-defense": 86,
+    "speed": 91
+  },
+  "color": "blue",
+  "shape": "fish",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mantyke",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "height": 10,
+  "weight": 650,
+  "base_stats": {
+    "hp": 45,
+    "attack": 20,
+    "defense": 50,
+    "special-attack": 60,
+    "special-defense": 120,
+    "speed": 50
+  },
+  "color": "blue",
+  "shape": "wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "snover",
+  "types": [
+    "grass",
+    "ice"
+  ],
+  "height": 10,
+  "weight": 505,
+  "base_stats": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 50,
+    "special-attack": 62,
+    "special-defense": 60,
+    "speed": 40
+  },
+  "color": "white",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "abomasnow",
+  "types": [
+    "grass",
+    "ice"
+  ],
+  "height": 22,
+  "weight": 1355,
+  "base_stats": {
+    "hp": 90,
+    "attack": 92,
+    "defense": 75,
+    "special-attack": 92,
+    "special-defense": 85,
+    "speed": 60
+  },
+  "color": "white",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "weavile",
+  "types": [
+    "dark",
+    "ice"
+  ],
+  "height": 11,
+  "weight": 340,
+  "base_stats": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 65,
+    "special-attack": 45,
+    "special-defense": 85,
+    "speed": 125
+  },
+  "color": "black",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "magnezone",
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "height": 12,
+  "weight": 1800,
+  "base_stats": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 115,
+    "special-attack": 130,
+    "special-defense": 90,
+    "speed": 60
+  },
+  "color": "gray",
+  "shape": "arms",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "lickilicky",
+  "types": [
+    "normal"
+  ],
+  "height": 17,
+  "weight": 1400,
+  "base_stats": {
+    "hp": 110,
+    "attack": 85,
+    "defense": 95,
+    "special-attack": 80,
+    "special-defense": 95,
+    "speed": 50
+  },
+  "color": "pink",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "rhyperior",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "height": 24,
+  "weight": 2828,
+  "base_stats": {
+    "hp": 115,
+    "attack": 140,
+    "defense": 130,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 40
+  },
+  "color": "gray",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "tangrowth",
+  "types": [
+    "grass"
+  ],
+  "height": 20,
+  "weight": 1286,
+  "base_stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 125,
+    "special-attack": 110,
+    "special-defense": 50,
+    "speed": 50
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "electivire",
+  "types": [
+    "electric"
+  ],
+  "height": 18,
+  "weight": 1386,
+  "base_stats": {
+    "hp": 75,
+    "attack": 123,
+    "defense": 67,
+    "special-attack": 95,
+    "special-defense": 85,
+    "speed": 95
+  },
+  "color": "yellow",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "magmortar",
+  "types": [
+    "fire"
+  ],
+  "height": 16,
+  "weight": 680,
+  "base_stats": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 67,
+    "special-attack": 125,
+    "special-defense": 95,
+    "speed": 83
+  },
+  "color": "red",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "togekiss",
+  "types": [
+    "fairy",
+    "flying"
+  ],
+  "height": 15,
+  "weight": 380,
+  "base_stats": {
+    "hp": 85,
+    "attack": 50,
+    "defense": 95,
+    "special-attack": 120,
+    "special-defense": 115,
+    "speed": 80
+  },
+  "color": "white",
+  "shape": "wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "yanmega",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "height": 19,
+  "weight": 515,
+  "base_stats": {
+    "hp": 86,
+    "attack": 76,
+    "defense": 86,
+    "special-attack": 116,
+    "special-defense": 56,
+    "speed": 95
+  },
+  "color": "green",
+  "shape": "bug-wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "leafeon",
+  "types": [
+    "grass"
+  ],
+  "height": 10,
+  "weight": 255,
+  "base_stats": {
+    "hp": 65,
+    "attack": 110,
+    "defense": 130,
+    "special-attack": 60,
+    "special-defense": 65,
+    "speed": 95
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "glaceon",
+  "types": [
+    "ice"
+  ],
+  "height": 8,
+  "weight": 259,
+  "base_stats": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 110,
+    "special-attack": 130,
+    "special-defense": 95,
+    "speed": 65
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gliscor",
+  "types": [
+    "ground",
+    "flying"
+  ],
+  "height": 20,
+  "weight": 425,
+  "base_stats": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 125,
+    "special-attack": 45,
+    "special-defense": 75,
+    "speed": 95
+  },
+  "color": "purple",
+  "shape": "wings",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "mamoswine",
+  "types": [
+    "ice",
+    "ground"
+  ],
+  "height": 25,
+  "weight": 2910,
+  "base_stats": {
+    "hp": 110,
+    "attack": 130,
+    "defense": 80,
+    "special-attack": 70,
+    "special-defense": 60,
+    "speed": 80
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "porygon-z",
+  "types": [
+    "normal"
+  ],
+  "height": 9,
+  "weight": 340,
+  "base_stats": {
+    "hp": 85,
+    "attack": 80,
+    "defense": 70,
+    "special-attack": 135,
+    "special-defense": 75,
+    "speed": 90
+  },
+  "color": "red",
+  "shape": "arms",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "gallade",
+  "types": [
+    "psychic",
+    "fighting"
+  ],
+  "height": 16,
+  "weight": 520,
+  "base_stats": {
+    "hp": 68,
+    "attack": 125,
+    "defense": 65,
+    "special-attack": 65,
+    "special-defense": 115,
+    "speed": 80
+  },
+  "color": "white",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "probopass",
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "height": 14,
+  "weight": 3400,
+  "base_stats": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 145,
+    "special-attack": 75,
+    "special-defense": 150,
+    "speed": 40
+  },
+  "color": "gray",
+  "shape": "heads",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "dusknoir",
+  "types": [
+    "ghost"
+  ],
+  "height": 22,
+  "weight": 1066,
+  "base_stats": {
+    "hp": 45,
+    "attack": 100,
+    "defense": 135,
+    "special-attack": 65,
+    "special-defense": 135,
+    "speed": 45
+  },
+  "color": "black",
+  "shape": "arms",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "froslass",
+  "types": [
+    "ice",
+    "ghost"
+  ],
+  "height": 13,
+  "weight": 266,
+  "base_stats": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 70,
+    "special-attack": 80,
+    "special-defense": 70,
+    "speed": 110
+  },
+  "color": "white",
+  "shape": "arms",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "rotom",
+  "types": [
+    "electric",
+    "ghost"
+  ],
+  "height": 3,
+  "weight": 3,
+  "base_stats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 77,
+    "special-attack": 95,
+    "special-defense": 77,
+    "speed": 91
+  },
+  "color": "red",
+  "shape": "ball",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "uxie",
+  "types": [
+    "psychic"
+  ],
+  "height": 3,
+  "weight": 3,
+  "base_stats": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 130,
+    "special-attack": 75,
+    "special-defense": 130,
+    "speed": 95
+  },
+  "color": "yellow",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "mesprit",
+  "types": [
+    "psychic"
+  ],
+  "height": 3,
+  "weight": 3,
+  "base_stats": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 105,
+    "special-attack": 105,
+    "special-defense": 105,
+    "speed": 80
+  },
+  "color": "pink",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "azelf",
+  "types": [
+    "psychic"
+  ],
+  "height": 3,
+  "weight": 3,
+  "base_stats": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 70,
+    "special-attack": 125,
+    "special-defense": 70,
+    "speed": 115
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "dialga",
+  "types": [
+    "steel",
+    "dragon"
+  ],
+  "height": 54,
+  "weight": 6830,
+  "base_stats": {
+    "hp": 100,
+    "attack": 120,
+    "defense": 120,
+    "special-attack": 150,
+    "special-defense": 100,
+    "speed": 90
+  },
+  "color": "white",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "palkia",
+  "types": [
+    "water",
+    "dragon"
+  ],
+  "height": 42,
+  "weight": 3360,
+  "base_stats": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 100,
+    "special-attack": 150,
+    "special-defense": 120,
+    "speed": 100
+  },
+  "color": "purple",
+  "shape": "upright",
+  "generation": "generation-iv",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "heatran",
+  "types": [
+    "fire",
+    "steel"
+  ],
+  "height": 17,
+  "weight": 4300,
+  "base_stats": {
+    "hp": 91,
+    "attack": 90,
+    "defense": 106,
+    "special-attack": 130,
+    "special-defense": 106,
+    "speed": 77
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "regigigas",
+  "types": [
+    "normal"
+  ],
+  "height": 37,
+  "weight": 4200,
+  "base_stats": {
+    "hp": 110,
+    "attack": 160,
+    "defense": 110,
+    "special-attack": 80,
+    "special-defense": 110,
+    "speed": 100
+  },
+  "color": "white",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "giratina-altered",
+  "types": [
+    "ghost",
+    "dragon"
+  ],
+  "height": 45,
+  "weight": 7500,
+  "base_stats": {
+    "hp": 150,
+    "attack": 100,
+    "defense": 120,
+    "special-attack": 100,
+    "special-defense": 120,
+    "speed": 90
+  },
+  "color": "black",
+  "shape": "tentacles",
+  "generation": "generation-iv",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "cresselia",
+  "types": [
+    "psychic"
+  ],
+  "height": 15,
+  "weight": 856,
+  "base_stats": {
+    "hp": 120,
+    "attack": 70,
+    "defense": 110,
+    "special-attack": 75,
+    "special-defense": 120,
+    "speed": 85
+  },
+  "color": "yellow",
+  "shape": "squiggle",
+  "generation": "generation-iv",
+  "is_legendary": true,
+  "is_mythical": false
+}
+{
+  "name": "phione",
+  "types": [
+    "water"
+  ],
+  "height": 4,
+  "weight": 31,
+  "base_stats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "special-attack": 80,
+    "special-defense": 80,
+    "speed": 80
+  },
+  "color": "blue",
+  "shape": "arms",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": true
+}
+{
+  "name": "manaphy",
+  "types": [
+    "water"
+  ],
+  "height": 3,
+  "weight": 14,
+  "base_stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special-attack": 100,
+    "special-defense": 100,
+    "speed": 100
+  },
+  "color": "blue",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": true
+}
+{
+  "name": "darkrai",
+  "types": [
+    "dark"
+  ],
+  "height": 15,
+  "weight": 505,
+  "base_stats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 90,
+    "special-attack": 135,
+    "special-defense": 90,
+    "speed": 125
+  },
+  "color": "black",
+  "shape": "humanoid",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": true
+}
+{
+  "name": "shaymin-land",
+  "types": [
+    "grass"
+  ],
+  "height": 2,
+  "weight": 21,
+  "base_stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special-attack": 100,
+    "special-defense": 100,
+    "speed": 100
+  },
+  "color": "green",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": true
+}
+{
+  "name": "arceus",
+  "types": [
+    "normal"
+  ],
+  "height": 32,
+  "weight": 3200,
+  "base_stats": {
+    "hp": 120,
+    "attack": 120,
+    "defense": 120,
+    "special-attack": 120,
+    "special-defense": 120,
+    "speed": 120
+  },
+  "color": "white",
+  "shape": "quadruped",
+  "generation": "generation-iv",
+  "is_legendary": false,
+  "is_mythical": true
+}
+{
+  "name": "victini",
+  "types": [
+    "psychic",
+    "fire"
+  ],
+  "height": 4,
+  "weight": 40,
+  "base_stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special-attack": 100,
+    "special-defense": 100,
+    "speed": 100
+  },
+  "color": "yellow",
+  "shape": "humanoid",
+  "generation": "generation-v",
+  "is_legendary": false,
+  "is_mythical": true
+}
+{
+  "name": "snivy",
+  "types": [
+    "grass"
+  ],
+  "height": 6,
+  "weight": 81,
+  "base_stats": {
+    "hp": 45,
+    "attack": 45,
+    "defense": 55,
+    "special-attack": 45,
+    "special-defense": 55,
+    "speed": 63
+  },
+  "color": "green",
+  "shape": "upright",
+  "generation": "generation-v",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "servine",
+  "types": [
+    "grass"
+  ],
+  "height": 8,
+  "weight": 160,
+  "base_stats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "special-attack": 60,
+    "special-defense": 75,
+    "speed": 83
+  },
+  "color": "green",
+  "shape": "upright",
+  "generation": "generation-v",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "serperior",
+  "types": [
+    "grass"
+  ],
+  "height": 33,
+  "weight": 630,
+  "base_stats": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 95,
+    "special-attack": 75,
+    "special-defense": 95,
+    "speed": 113
+  },
+  "color": "green",
+  "shape": "squiggle",
+  "generation": "generation-v",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "tepig",
+  "types": [
+    "fire"
+  ],
+  "height": 5,
+  "weight": 99,
+  "base_stats": {
+    "hp": 65,
+    "attack": 63,
+    "defense": 45,
+    "special-attack": 45,
+    "special-defense": 45,
+    "speed": 45
+  },
+  "color": "red",
+  "shape": "quadruped",
+  "generation": "generation-v",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "pignite",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "height": 10,
+  "weight": 555,
+  "base_stats": {
+    "hp": 90,
+    "attack": 93,
+    "defense": 55,
+    "special-attack": 70,
+    "special-defense": 55,
+    "speed": 55
+  },
+  "color": "red",
+  "shape": "upright",
+  "generation": "generation-v",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "emboar",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "height": 16,
+  "weight": 1500,
+  "base_stats": {
+    "hp": 110,
+    "attack": 123,
+    "defense": 65,
+    "special-attack": 100,
+    "special-defense": 65,
+    "speed": 65
+  },
+  "color": "red",
+  "shape": "upright",
+  "generation": "generation-v",
+  "is_legendary": false,
+  "is_mythical": false
+}
+Fetched 500 entries so far...
+{
+  "name": "oshawott",
+  "types": [
+    "water"
+  ],
+  "height": 5,
+  "weight": 59,
+  "base_stats": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 45,
+    "special-attack": 63,
+    "special-defense": 45,
+    "speed": 45
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-v",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "dewott",
+  "types": [
+    "water"
+  ],
+  "height": 8,
+  "weight": 245,
+  "base_stats": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 60,
+    "special-attack": 83,
+    "special-defense": 60,
+    "speed": 60
+  },
+  "color": "blue",
+  "shape": "upright",
+  "generation": "generation-v",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "samurott",
+  "types": [
+    "water"
+  ],
+  "height": 15,
+  "weight": 946,
+  "base_stats": {
+    "hp": 95,
+    "attack": 100,
+    "defense": 85,
+    "special-attack": 108,
+    "special-defense": 70,
+    "speed": 70
+  },
+  "color": "blue",
+  "shape": "quadruped",
+  "generation": "generation-v",
+  "is_legendary": false,
+  "is_mythical": false
+}
+{
+  "name": "patrat",
+  "types": [
+    "normal"
+  ],
+  "height": 5,
+  "weight": 116,
+  "base_stats": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 39,
+    "special-attack": 35,
+    "special-defense": 39,
+    "speed": 42
+  },
+  "color": "brown",
+  "shape": "quadruped",
+  "generation": "generation-v",
+  "is_legendary": false,
+  "is_mythical": false
+}
+
